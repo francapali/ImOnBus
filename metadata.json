@@ -1,0 +1,5 @@
+{
+  "name": "SafeStep - Child Transit Safety",
+  "description": "A mobile-first prototype for monitoring children's safety on public transport with real-time alerts and state tracking.",
+  "requestFramePermissions": []
+}
