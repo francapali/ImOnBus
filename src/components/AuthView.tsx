@@ -43,7 +43,7 @@ export const AuthView: React.FC = () => {
           <div className="p-4 bg-slate-100 rounded-full group-hover:bg-indigo-100 transition-colors">
             <Baby className="w-10 h-10 text-slate-600 group-hover:text-indigo-600" />
           </div>
-          <span className="mt-4 text-xl font-semibold text-slate-800">Accedi come Bambino</span>
+          <span className="mt-4 text-xl font-semibold text-slate-800">Accedi come Ragazzo</span>
         </motion.button>
       </div>
     </div>

@@ -1,0 +1,399 @@
+geometry,latitude,longitude,cod_evento,circoscriz,data_event,causa,tipologia,civico_eve,cod_via,denominazi,x,y
+"{""type"":""Point"",""coordinates"":[655122.148,4554319.401]}",4554319.401,655122.148,3,1,02/01/2017,altro - arredo urbano,caduta pedone,,720010412,VIA TOMMASO FIORE,655122.148,4554319.401
+"{""type"":""Point"",""coordinates"":[655122.148,4554319.401]}",4554319.401,655122.148,4,1,03/06/2017,dissesto manto stradale,caduta pedone,,720010412,VIA TOMMASO FIORE,655122.148,4554319.401
+"{""type"":""Point"",""coordinates"":[655122.148,4554319.401]}",4554319.401,655122.148,5,1,14/06/2017,altro - vetri,caduta pedone,,720010412,VIA TOMMASO FIORE,655122.148,4554319.401
+"{""type"":""Point"",""coordinates"":[655122.148,4554319.401]}",4554319.401,655122.148,6,1,20/09/2017,dissesto manto stradale,caduta pedone,,720010412,VIA TOMMASO FIORE,655122.148,4554319.401
+"{""type"":""Point"",""coordinates"":[655122.148,4554319.401]}",4554319.401,655122.148,7,1,10/11/2017,dissesto manto stradale,caduta pedone,,720010412,VIA TOMMASO FIORE,655122.148,4554319.401
+"{""type"":""Point"",""coordinates"":[657107.745,4551244.2]}",4551244.2,657107.745,8,2,02/04/2017,dissesto marciapiede,caduta pedone,411/D,720012182,CORSO ALCIDE DE GASPERI,657107.745,4551244.2
+"{""type"":""Point"",""coordinates"":[657196.063,4551342.52]}",4551342.52,657196.063,9,2,17/09/2017,dissesto manto stradale,caduta pedone,294/A,720012182,CORSO ALCIDE DE GASPERI,657196.063,4551342.52
+"{""type"":""Point"",""coordinates"":[657154.895,4552112.931]}",4552112.931,657154.895,10,2,15/05/2017,dissesto manto stradale,caduta con ciclomotore,327/A,720012182,CORSO ALCIDE DE GASPERI,657154.895,4552112.931
+"{""type"":""Point"",""coordinates"":[657154.895,4552112.931]}",4552112.931,657154.895,11,2,15/05/2017,dissesto manto stradale,caduta con ciclomotore,327/A,720012182,CORSO ALCIDE DE GASPERI,657154.895,4552112.931
+"{""type"":""Point"",""coordinates"":[656893.001,4555156.234]}",4555156.234,656893.001,12,1,27/01/2017,dissesto manto stradale,danni auto,,700022746,CORSO ANTONIO DE TULLIO,656893.001,4555156.234
+"{""type"":""Point"",""coordinates"":[657163.167,4553410.409]}",4553410.409,657163.167,13,2,13/04/2017,dissesto manto stradale,caduta pedone,9,700021013,CORSO BENEDETTO CROCE,657163.167,4553410.409
+"{""type"":""Point"",""coordinates"":[657224.016,4553585.0]}",4553585.0,657224.016,14,1,17/02/2017,dissesto marciapiede,caduta pedone,,720010554,CORSO CAVOUR,657224.016,4553585.0
+"{""type"":""Point"",""coordinates"":[657224.016,4553585.0]}",4553585.0,657224.016,15,1,03/02/2017,dissesto manto stradale,caduta pedone,,720010554,CORSO CAVOUR,657224.016,4553585.0
+"{""type"":""Point"",""coordinates"":[657224.016,4553585.0]}",4553585.0,657224.016,16,1,30/06/2017,dissesto marciapiede,caduta pedone,,720010554,CORSO CAVOUR,657224.016,4553585.0
+"{""type"":""Point"",""coordinates"":[657210.705,4554103.988]}",4554103.988,657210.705,17,1,15/06/2017,dissesto manto stradale,caduta pedone,20,720010554,CORSO CAVOUR,657210.705,4554103.988
+"{""type"":""Point"",""coordinates"":[657130.08,4554417.732]}",4554417.732,657130.08,18,2,30/08/2017,dissesto marciapiede,caduta pedone,7,720010554,CORSO CAVOUR,657130.08,4554417.732
+"{""type"":""Point"",""coordinates"":[655660.562,4554286.763]}",4554286.763,655660.562,19,1,09/09/2017,dissesto marciapiede,caduta pedone,136,700021518,CORSO GIUSEPPE MAZZINI,655660.562,4554286.763
+"{""type"":""Point"",""coordinates"":[656893.002,4553617.873]}",4553617.873,656893.002,20,1,04/09/2017,dissesto manto stradale,caduta pedone,15,700022002,CORSO ITALIA,656893.002,4553617.873
+"{""type"":""Point"",""coordinates"":[656225.956,4553548.523]}",4553548.523,656225.956,21,1,10/05/2017,dissesto marciapiede,caduta pedone,59,700022002,CORSO ITALIA,656225.956,4553548.523
+"{""type"":""Point"",""coordinates"":[655460.202,4554289.095]}",4554289.095,655460.202,22,1,04/02/2017,dissesto marciapiede,caduta pedone,,700021518,CORSO GIUSEPPE MAZZINI,655460.202,4554289.095
+"{""type"":""Point"",""coordinates"":[655822.69,4554341.112]}",4554341.112,655822.69,23,1,30/05/2017,dissesto manto stradale,caduta pedone,103,700021518,CORSO GIUSEPPE MAZZINI,655822.69,4554341.112
+"{""type"":""Point"",""coordinates"":[658403.459,4553514.0]}",4553514.0,658403.459,25,1,03/06/2017,dissesto manto stradale,caduta con velocipede,,700021865,CORSO SIDNEY SONNINO,658403.459,4553514.0
+"{""type"":""Point"",""coordinates"":[658049.512,4553687.299]}",4553687.299,658049.512,26,1,20/03/2017,dissesto marciapiede,caduta pedone,131,700021865,CORSO SIDNEY SONNINO,658049.512,4553687.299
+"{""type"":""Point"",""coordinates"":[658290.914,4553584.905]}",4553584.905,658290.914,27,1,14/08/2017,dissesto marciapiede,caduta pedone,146,700021865,CORSO SIDNEY SONNINO,658290.914,4553584.905
+"{""type"":""Point"",""coordinates"":[658425.257,4553519.038]}",4553519.038,658425.257,28,1,01/04/2017,dissesto manto stradale,caduta con velocipede,188,700021865,CORSO SIDNEY SONNINO,658425.257,4553519.038
+"{""type"":""Point"",""coordinates"":[657106.174,4554463.48]}",4554463.48,657106.174,29,1,15/03/2017,tombino,caduta pedone,152/A,720010534,CORSO VITTORIO EMANUELE II,657106.174,4554463.48
+"{""type"":""Point"",""coordinates"":[656410.045,4554368.276]}",4554368.276,656410.045,30,1,25/03/2017,dissesto manto stradale,caduta pedone,174,720010534,CORSO VITTORIO EMANUELE II,656410.045,4554368.276
+"{""type"":""Point"",""coordinates"":[656839.559,4554461.65]}",4554461.65,656839.559,31,1,19/09/2017,dissesto manto stradale,caduta pedone,107,720010534,CORSO VITTORIO EMANUELE II,656839.559,4554461.65
+"{""type"":""Point"",""coordinates"":[656653.541,4554418.229]}",4554418.229,656653.541,32,1,30/06/2017,altro - olio,caduta con motociclo,133,720010534,CORSO VITTORIO EMANUELE II,656653.541,4554418.229
+"{""type"":""Point"",""coordinates"":[656653.541,4554418.229]}",4554418.229,656653.541,33,1,30/06/2017,altro - olio,caduta con motociclo,133,720010534,CORSO VITTORIO EMANUELE II,656653.541,4554418.229
+"{""type"":""Point"",""coordinates"":[645364.007,4558987.833]}",4558987.833,645364.007,39,5,05/02/2017,segnaletica stradale,caduta pedone,,720010298,LUNGOMARE CRISTOFORO COLOMBO,645364.007,4558987.833
+"{""type"":""Point"",""coordinates"":[645364.007,4558987.833]}",4558987.833,645364.007,40,5,03/05/2017,dissesto manto stradale,caduta pedone,,720010298,LUNGOMARE CRISTOFORO COLOMBO,645364.007,4558987.833
+"{""type"":""Point"",""coordinates"":[645364.007,4558987.833]}",4558987.833,645364.007,41,5,11/06/2017,tombino,caduta pedone,,720010298,LUNGOMARE CRISTOFORO COLOMBO,645364.007,4558987.833
+"{""type"":""Point"",""coordinates"":[645364.007,4558987.833]}",4558987.833,645364.007,42,5,11/08/2017,tombino,caduta pedone,,720010298,LUNGOMARE CRISTOFORO COLOMBO,645364.007,4558987.833
+"{""type"":""Point"",""coordinates"":[645364.007,4558987.833]}",4558987.833,645364.007,43,5,27/08/2017,altro - dissuasore,caduta pedone,,720010298,LUNGOMARE CRISTOFORO COLOMBO,645364.007,4558987.833
+"{""type"":""Point"",""coordinates"":[647056.119,4558474.25]}",4558474.25,647056.119,44,5,05/04/2017,dissesto manto stradale,caduta pedone,10,720010298,LUNGOMARE CRISTOFORO COLOMBO,647056.119,4558474.25
+"{""type"":""Point"",""coordinates"":[657169.411,4554479.492]}",4554479.492,657169.411,45,2,07/03/2017,segnaletica stradale,danni auto,,720012267,LUNGOMARE AUGUSTO IMPERATORE,657169.411,4554479.492
+"{""type"":""Point"",""coordinates"":[657169.411,4554479.492]}",4554479.492,657169.411,46,1,11/08/2017,tombino,caduta pedone,,720012267,LUNGOMARE AUGUSTO IMPERATORE,657169.411,4554479.492
+"{""type"":""Point"",""coordinates"":[654481.539,4555673.55]}",4555673.55,654481.539,48,3,28/06/2017,dissesto marciapiede,caduta pedone,,720010267,LUNGOMARE GEN. GIAMBATTISTA STARITA E AMMIRAGLIO PIETRO,654481.539,4555673.55
+"{""type"":""Point"",""coordinates"":[656933.672,4553666.89]}",4553666.89,656933.672,56,1,04/05/2017,dissesto marciapiede,caduta pedone,4,700021195,PIAZZA ALDO MORO,656933.672,4553666.89
+"{""type"":""Point"",""coordinates"":[656957.088,4553669.187]}",4553669.187,656957.088,57,1,13/07/2017,dissesto manto stradale,caduta pedone,8,700021195,PIAZZA ALDO MORO,656957.088,4553669.187
+"{""type"":""Point"",""coordinates"":[656834.128,4547472.16]}",4547472.16,656834.128,58,1,17/08/2017,dissesto manto stradale,caduta pedone,,720010971,PIAZZA ARMANDO DIAZ,656834.128,4547472.16
+"{""type"":""Point"",""coordinates"":[657147.441,4554486.299]}",4554486.299,657147.441,59,1,08/04/2017,dissesto manto stradale,caduta pedone,,700021680,PIAZZA DEL FERRARESE,657147.441,4554486.299
+"{""type"":""Point"",""coordinates"":[657356.389,4554271.951]}",4554271.951,657356.389,60,1,00/00/0000,altro - infiltrazioni acqua,danni immobiliari,19,720011148,PIAZZA EROI DEL MARE,657356.389,4554271.951
+"{""type"":""Point"",""coordinates"":[657093.3,4548455.1]}",4548455.1,657093.3,61,1,04/01/2017,dissesto marciapiede,caduta pedone,,700022433,PIAZZA GIUSEPPE GARIBALDI,657093.3,4548455.1
+"{""type"":""Point"",""coordinates"":[656249.978,4554430.118]}",4554430.118,656249.978,62,1,17/06/2017,dissesto marciapiede,caduta pedone,11,700021776,PIAZZA GIUSEPPE GARIBALDI,656249.978,4554430.118
+"{""type"":""Point"",""coordinates"":[657114.747,4554608.585]}",4554608.585,657114.747,65,1,06/05/2017,altro - olio,caduta pedone,,720011861,PIAZZA MERCANTILE,657114.747,4554608.585
+"{""type"":""Point"",""coordinates"":[657114.747,4554608.585]}",4554608.585,657114.747,66,1,16/06/2017,dissesto manto stradale,caduta pedone,,720011861,PIAZZA MERCANTILE,657114.747,4554608.585
+"{""type"":""Point"",""coordinates"":[657009.955,4555110.727]}",4555110.727,657009.955,67,1,09/01/2017,dissesto manto stradale,caduta pedone,1,720011402,PIAZZA SAN PIETRO,657009.955,4555110.727
+"{""type"":""Point"",""coordinates"":[657122.667,4548721.577]}",4548721.577,657122.667,68,1,23/06/2017,ostacolo - paletto in ferro,caduta pedone,,720010912,PIAZZA UMBERTO I,657122.667,4548721.577
+"{""type"":""Point"",""coordinates"":[656931.873,4553737.477]}",4553737.477,656931.873,69,1,18/09/2017,dissesto manto stradale,caduta pedone,,700021325,PIAZZA UMBERTO I,656931.873,4553737.477
+"{""type"":""Point"",""coordinates"":[647057.862,4558534.262]}",4558534.262,647057.862,70,5,27/03/2017,tombino,danni auto,3/A,720011088,PIAZZA VITTORIO VENETO,647057.862,4558534.262
+"{""type"":""Point"",""coordinates"":[658404.722,4552482.83]}",4552482.83,658404.722,74,2,14/06/2017,altro - olio,caduta con motociclo,,720010030,PONTE PADRE PIO,658404.722,4552482.83
+"{""type"":""Point"",""coordinates"":[670254.81,4549617.423]}",4549617.423,670254.81,78,3,03/03/2017,dissesto manto stradale,caduta con motociclo,,722052635,STRADA STATALE 16 SUD - COMPLANARE OVEST,670254.81,4549617.423
+"{""type"":""Point"",""coordinates"":[670254.81,4549617.423]}",4549617.423,670254.81,79,5,03/03/2017,dissesto manto stradale,caduta con motociclo,,722052635,STRADA STATALE 16 SUD - COMPLANARE OVEST,670254.81,4549617.423
+"{""type"":""Point"",""coordinates"":[670254.81,4549617.423]}",4549617.423,670254.81,80,0,14/03/2017,altro - lavori,danni auto,,722052635,STRADA STATALE 16 SUD - COMPLANARE OVEST,670254.81,4549617.423
+"{""type"":""Point"",""coordinates"":[656796.243,4554628.42]}",4554628.42,656796.243,87,1,11/04/2017,altro - cera,caduta con motociclo,9,700022069,STRADA ATTOLINI,656796.243,4554628.42
+"{""type"":""Point"",""coordinates"":[656796.243,4554628.42]}",4554628.42,656796.243,88,1,11/04/2017,altro - cera,caduta con motociclo,9,700022069,STRADA ATTOLINI,656796.243,4554628.42
+"{""type"":""Point"",""coordinates"":[657344.246,4550741.44]}",4550741.44,657344.246,89,2,01/01/2017,dissesto manto stradale,caduta con motociclo,,700022522,STRADA CALVANI,657344.246,4550741.44
+"{""type"":""Point"",""coordinates"":[657344.246,4550741.44]}",4550741.44,657344.246,90,2,01/01/2017,dissesto manto stradale,caduta con motociclo,,700022522,STRADA CALVANI,657344.246,4550741.44
+"{""type"":""Point"",""coordinates"":[664777.041,4551319.304]}",4551319.304,664777.041,93,1,15/01/2017,dissesto manto stradale,danni auto,,700021015,STRADA DETTA DELLA MARINA,664777.041,4551319.304
+"{""type"":""Point"",""coordinates"":[652561.986,4551155.72]}",4551155.72,652561.986,94,3,13/03/2017,dissesto manto stradale,danni auto,,720010763,STRADA SAN GIORGIO MARTIRE O SAN SERIO,652561.986,4551155.72
+"{""type"":""Point"",""coordinates"":[652590.081,4555528.229]}",4555528.229,652590.081,95,3,09/01/2017,dissesto marciapiede,caduta pedone,23,700021171,STRADA SAN GIROLAMO,652590.081,4555528.229
+"{""type"":""Point"",""coordinates"":[655184.934,4550618.43]}",4550618.43,655184.934,96,2,04/05/2017,dissesto manto stradale,danni auto,,720010904,STRADA TORRE TRESCA,655184.934,4550618.43
+"{""type"":""Point"",""coordinates"":[655297.204,4551517.65]}",4551517.65,655297.204,97,2,28/06/2017,dissesto manto stradale,danni auto,10/A,720010904,STRADA TORRE TRESCA,655297.204,4551517.65
+"{""type"":""Point"",""coordinates"":[656029.982,4554182.429]}",4554182.429,656029.982,98,1,18/08/2017,dissesto manto stradale,caduta pedone,,700021307,VIA ABATE GIACINTO GIMMA,656029.982,4554182.429
+"{""type"":""Point"",""coordinates"":[657014.041,4554296.85]}",4554296.85,657014.041,99,1,10/03/2017,dissesto marciapiede,caduta pedone,39,700021307,VIA ABATE GIACINTO GIMMA,657014.041,4554296.85
+"{""type"":""Point"",""coordinates"":[658290.183,4552360.92]}",4552360.92,658290.183,101,2,01/08/2017,dissesto manto stradale,caduta con velocipede,,720010498,VIA ADOLFO OMODEO,658290.183,4552360.92
+"{""type"":""Point"",""coordinates"":[658290.183,4552360.92]}",4552360.92,658290.183,102,1,03/10/2017,altro - olio,caduta con ciclomotore,,720010498,VIA ADOLFO OMODEO,658290.183,4552360.92
+"{""type"":""Point"",""coordinates"":[658290.183,4552360.92]}",4552360.92,658290.183,103,1,03/10/2017,altro - olio,caduta con ciclomotore,,720010498,VIA ADOLFO OMODEO,658290.183,4552360.92
+"{""type"":""Point"",""coordinates"":[657399.301,4551061.734]}",4551061.734,657399.301,104,2,24/08/2017,dissesto manto stradale,altro - danni al motociclo,,700021653,VIA ALBEROTANZA,657399.301,4551061.734
+"{""type"":""Point"",""coordinates"":[657251.884,4551102.03]}",4551102.03,657251.884,105,2,07/04/2017,tombino,caduta pedone,16,700021653,VIA ALBEROTANZA,657251.884,4551102.03
+"{""type"":""Point"",""coordinates"":[655386.175,4544747.117]}",4544747.117,655386.175,106,1,13/03/2017,dissesto marciapiede,caduta pedone,,700021989,VIA ALESSANDRO MANZONI,655386.175,4544747.117
+"{""type"":""Point"",""coordinates"":[656278.56,4553631.41]}",4553631.41,656278.56,107,1,24/02/2017,dissesto marciapiede,caduta pedone,222,700021892,VIA ALESSANDRO MANZONI,656278.56,4553631.41
+"{""type"":""Point"",""coordinates"":[656281.895,4553597.116]}",4553597.116,656281.895,108,1,08/05/2017,dissesto marciapiede,caduta pedone,230,700021892,VIA ALESSANDRO MANZONI,656281.895,4553597.116
+"{""type"":""Point"",""coordinates"":[655961.495,4554107.795]}",4554107.795,655961.495,109,1,03/05/2017,altro - scivolo per disabili,caduta pedone,,700022619,VIA ALESSANDRO MARIA CALEFATI,655961.495,4554107.795
+"{""type"":""Point"",""coordinates"":[655961.632,4554123.09]}",4554123.09,655961.632,110,1,31/05/2017,dissesto manto stradale,caduta pedone,393,700022619,VIA ALESSANDRO MARIA CALEFATI,655961.632,4554123.09
+"{""type"":""Point"",""coordinates"":[657024.51,4554210.612]}",4554210.612,657024.51,111,1,02/01/2017,dissesto marciapiede,caduta pedone,42,700022619,VIA ALESSANDRO MARIA CALEFATI,657024.51,4554210.612
+"{""type"":""Point"",""coordinates"":[656745.183,4554197.189]}",4554197.189,656745.183,112,1,23/06/2017,dissesto marciapiede,caduta pedone,105,700022619,VIA ALESSANDRO MARIA CALEFATI,656745.183,4554197.189
+"{""type"":""Point"",""coordinates"":[657046.238,4554227.291]}",4554227.291,657046.238,113,1,29/09/2017,altro - pavimentazione bagnata,caduta pedone,33,700022619,VIA ALESSANDRO MARIA CALEFATI,657046.238,4554227.291
+"{""type"":""Point"",""coordinates"":[655974.474,4554124.299]}",4554124.299,655974.474,114,1,11/02/2017,dissesto marciapiede,caduta pedone,387,700022619,VIA ALESSANDRO MARIA CALEFATI,655974.474,4554124.299
+"{""type"":""Point"",""coordinates"":[656051.313,4554116.319]}",4554116.319,656051.313,115,1,08/07/2017,dissesto marciapiede,caduta pedone,390,700022619,VIA ALESSANDRO MARIA CALEFATI,656051.313,4554116.319
+"{""type"":""Point"",""coordinates"":[663407.918,4551947.63]}",4551947.63,663407.918,116,1,30/05/2017,dissesto manto stradale,caduta con velocipide,49/A,720012155,VIA ALFREDO GIOVINE,663407.918,4551947.63
+"{""type"":""Point"",""coordinates"":[656192.941,4554024.662]}",4554024.662,656192.941,117,1,30/03/2017,dissesto manto stradale,caduta pedone,16,720010560,VIA ALTAMURA,656192.941,4554024.662
+"{""type"":""Point"",""coordinates"":[655262.146,4554453.439]}",4554453.439,655262.146,119,1,28/06/2017,dissesto marciapiede,caduta pedone,30,700022859,VIA ANDREA COSTA,655262.146,4554453.439
+"{""type"":""Point"",""coordinates"":[657336.157,4547715.68]}",4547715.68,657336.157,120,4,07/07/2017,altro - incendio,altro - danni alberi,9,720011046,VIA ANGELANTONIO QUARANTA,657336.157,4547715.68
+"{""type"":""Point"",""coordinates"":[657049.192,4553931.262]}",4553931.262,657049.192,122,1,12/09/2017,dissesto marciapiede,caduta pedone,,700022237,VIA ANTONIO BEATILLO,657049.192,4553931.262
+"{""type"":""Point"",""coordinates"":[657156.48,4553930.371]}",4553930.371,657156.48,123,1,24/02/2017,dissesto marciapiede,caduta pedone,10,700022237,VIA ANTONIO BEATILLO,657156.48,4553930.371
+"{""type"":""Point"",""coordinates"":[655971.614,4549015.214]}",4549015.214,655971.614,124,4,24/04/2017,dissesto manto stradale,caduta pedone,11,700021592,VIA ANTONIO DE CURTIS,655971.614,4549015.214
+"{""type"":""Point"",""coordinates"":[656339.199,4550715.181]}",4550715.181,656339.199,125,2,13/06/2017,dissesto manto stradale,caduta pedone,18,720012095,VIA ANTONIO LUCARELLI,656339.199,4550715.181
+"{""type"":""Point"",""coordinates"":[656211.569,4550735.684]}",4550735.684,656211.569,126,2,07/04/2017,dissesto marciapiede,caduta pedone,58,720012095,VIA ANTONIO LUCARELLI,656211.569,4550735.684
+"{""type"":""Point"",""coordinates"":[658188.524,4553837.825]}",4553837.825,658188.524,128,1,25/03/2017,tombino,caduta pedone,,700022351,VIA ARCIVESCOVO VACCARO,658188.524,4553837.825
+"{""type"":""Point"",""coordinates"":[657027.04,4554122.934]}",4554122.934,657027.04,130,1,14/01/2017,altro - caduta accidentale,caduta pedone,88,700021751,VIA ARGIRO,657027.04,4554122.934
+"{""type"":""Point"",""coordinates"":[651323.734,4554782.67]}",4554782.67,651323.734,131,0,03/05/2017,dissesto marciapiede,caduta pedone,,700022652,VIA ARTURO ATTI,651323.734,4554782.67
+"{""type"":""Point"",""coordinates"":[656669.424,4551034.77]}",4551034.77,656669.424,132,2,03/03/2017,dissesto manto stradale,caduta pedone,4,720011451,VIA AURELIO CARRANTE,656669.424,4551034.77
+"{""type"":""Point"",""coordinates"":[667736.55,4550185.39]}",4550185.39,667736.55,133,1,05/01/2017,dissesto marciapiede,caduta pedone,23,720010674,VIA BARI,667736.55,4550185.39
+"{""type"":""Point"",""coordinates"":[656712.82,4554348.094]}",4554348.094,656712.82,134,1,29/04/2017,dissesto manto stradale,caduta pedone,19,700021594,VIA BENEDETTO CAIROLI,656712.82,4554348.094
+"{""type"":""Point"",""coordinates"":[656415.019,4553228.27]}",4553228.27,656415.019,135,2,15/02/2017,segnaletica stradale,danni auto,7,700021100,VIA BENGASI,656415.019,4553228.27
+"{""type"":""Point"",""coordinates"":[653996.318,4549235.02]}",4549235.02,653996.318,136,2,09/07/2017,dissesto manto stradale,caduta con ciclomotore,,720012278,VIA BITRITTO,653996.318,4549235.02
+"{""type"":""Point"",""coordinates"":[655195.623,4551711.31]}",4551711.31,655195.623,137,4,06/07/2017,dissesto manto stradale,caduta con motociclo,114,720012278,VIA BITRITTO,655195.623,4551711.31
+"{""type"":""Point"",""coordinates"":[655195.623,4551711.31]}",4551711.31,655195.623,138,4,06/07/2017,dissesto manto stradale,caduta con motociclo,114,720012278,VIA BITRITTO,655195.623,4551711.31
+"{""type"":""Point"",""coordinates"":[655439.044,4554512.119]}",4554512.119,655439.044,139,1,25/03/2017,altro - spartitraffico,danni auto,,700021187,VIA BRIGATA REGINA,655439.044,4554512.119
+"{""type"":""Point"",""coordinates"":[655439.044,4554512.119]}",4554512.119,655439.044,140,1,17/03/2017,altro - lavori,caduta con motociclo,,700021187,VIA BRIGATA REGINA,655439.044,4554512.119
+"{""type"":""Point"",""coordinates"":[655439.044,4554512.119]}",4554512.119,655439.044,141,1,07/06/2017,dissesto manto stradale,caduta con motociclo,,700021187,VIA BRIGATA REGINA,655439.044,4554512.119
+"{""type"":""Point"",""coordinates"":[655481.902,4553978.536]}",4553978.536,655481.902,142,1,05/02/2017,dissesto marciapiede,caduta pedone,129,700021187,VIA BRIGATA REGINA,655481.902,4553978.536
+"{""type"":""Point"",""coordinates"":[655478.431,4554163.27]}",4554163.27,655478.431,143,1,26/05/2017,dissesto marciapiede,caduta pedone,27,700021187,VIA BRIGATA REGINA,655478.431,4554163.27
+"{""type"":""Point"",""coordinates"":[655198.632,4553785.1]}",4553785.1,655198.632,144,3,19/01/2017,dissesto manto stradale,danni auto,,720010828,VIA BRUNO BUOZZI,655198.632,4553785.1
+"{""type"":""Point"",""coordinates"":[657209.603,4553575.182]}",4553575.182,657209.603,146,1,25/07/2017,altro - recinzione,altro - danni fisici,19,700022627,VIA CADUTI DI VIA FANI,657209.603,4553575.182
+"{""type"":""Point"",""coordinates"":[662090.573,4550752.949]}",4550752.949,662090.573,148,1,04/09/2017,altro - lavori,caduta pedone,,720010835,VIA CALDAROLA,662090.573,4550752.949
+"{""type"":""Point"",""coordinates"":[662090.573,4550752.949]}",4550752.949,662090.573,149,1,08/06/2017,dissesto manto stradale,caduta con ciclomotore,,720010835,VIA CALDAROLA,662090.573,4550752.949
+"{""type"":""Point"",""coordinates"":[662090.573,4550752.949]}",4550752.949,662090.573,150,1,20/05/2017,altro - brecciolina,caduta con ciclomotore,,720010835,VIA CALDAROLA,662090.573,4550752.949
+"{""type"":""Point"",""coordinates"":[662090.573,4550752.949]}",4550752.949,662090.573,151,1,20/05/2017,altro - brecciolina,caduta con ciclomotore,,720010835,VIA CALDAROLA,662090.573,4550752.949
+"{""type"":""Point"",""coordinates"":[662090.573,4550752.949]}",4550752.949,662090.573,152,1,07/11/2017,dissesto marciapiede,danni auto,,720010835,VIA CALDAROLA,662090.573,4550752.949
+"{""type"":""Point"",""coordinates"":[655787.851,4551179.724]}",4551179.724,655787.851,153,2,30/04/2017,tombino,caduta pedone,,720012153,VIA CAMILLO ROSALBA,655787.851,4551179.724
+"{""type"":""Point"",""coordinates"":[650728.498,4553490.05]}",4553490.05,650728.498,154,3,29/05/2017,dissesto marciapiede,caduta pedone,,700021163,VIA CAMPANIA,650728.498,4553490.05
+"{""type"":""Point"",""coordinates"":[650783.799,4553486.169]}",4553486.169,650783.799,155,3,08/05/2017,dissesto marciapiede,caduta pedone,8,700021163,VIA CAMPANIA,650783.799,4553486.169
+"{""type"":""Point"",""coordinates"":[647868.007,4557169.297]}",4557169.297,647868.007,158,5,24/02/2017,tombino,caduta pedone,,720010579,VIA CAPUTO,647868.007,4557169.297
+"{""type"":""Point"",""coordinates"":[647868.007,4557169.297]}",4557169.297,647868.007,159,5,08/04/2017,dissesto manto stradale,caduta con velocipede,,720010579,VIA CAPUTO,647868.007,4557169.297
+"{""type"":""Point"",""coordinates"":[647126.207,4558381.579]}",4558381.579,647126.207,162,2,22/02/2017,dissesto marciapiede,caduta pedone,117,700022187,VIA CARNIA,647126.207,4558381.579
+"{""type"":""Point"",""coordinates"":[655873.361,4548258.85]}",4548258.85,655873.361,163,4,12/08/2017,altro - caduta massi,danni auto,,700021332,VIA CASCIA,655873.361,4548258.85
+"{""type"":""Point"",""coordinates"":[650557.386,4554085.2]}",4554085.2,650557.386,165,3,30/05/2017,dissesto marciapiede,caduta pedone,,720010540,VIA CORRADO GIAQUINTO,650557.386,4554085.2
+"{""type"":""Point"",""coordinates"":[656683.118,4553952.981]}",4553952.981,656683.118,166,1,05/05/2017,dissesto marciapiede,caduta pedone,150,700021434,VIA DANTE ALIGHIERI,656683.118,4553952.981
+"{""type"":""Point"",""coordinates"":[657096.391,4554008.715]}",4554008.715,657096.391,167,1,02/02/2017,cane randagio,caduta pedone,19,700021434,VIA DANTE ALIGHIERI,657096.391,4554008.715
+"{""type"":""Point"",""coordinates"":[655212.059,4544796.251]}",4544796.251,655212.059,168,1,16/02/2017,dissesto manto stradale,caduta pedone,52/N,700021655,VIA DANTE ALIGHIERI,655212.059,4544796.251
+"{""type"":""Point"",""coordinates"":[657075.115,4553992.836]}",4553992.836,657075.115,169,1,13/06/2017,dissesto manto stradale,caduta pedone,32,700021434,VIA DANTE ALIGHIERI,657075.115,4553992.836
+"{""type"":""Point"",""coordinates"":[656030.059,4553902.294]}",4553902.294,656030.059,170,1,11/08/2017,altro - grata,caduta pedone,367,700021434,VIA DANTE ALIGHIERI,656030.059,4553902.294
+"{""type"":""Point"",""coordinates"":[656587.94,4553956.637]}",4553956.637,656587.94,171,1,04/09/2017,dissesto marciapiede,caduta pedone,173,700021434,VIA DANTE ALIGHIERI,656587.94,4553956.637
+"{""type"":""Point"",""coordinates"":[656030.059,4553902.294]}",4553902.294,656030.059,172,1,27/06/2017,altro - grata,caduta pedone,367,700021434,VIA DANTE ALIGHIERI,656030.059,4553902.294
+"{""type"":""Point"",""coordinates"":[655678.298,4553854.715]}",4553854.715,655678.298,173,1,14/10/2017,dissesto marciapiede,caduta pedone,508,700021434,VIA DANTE ALIGHIERI,655678.298,4553854.715
+"{""type"":""Point"",""coordinates"":[655313.016,4554432.824]}",4554432.824,655313.016,174,1,01/03/2017,altro - lavori,caduta pedone,15/E,700022792,VIA DAVIDE LOPEZ,655313.016,4554432.824
+"{""type"":""Point"",""coordinates"":[656614.757,4553999.388]}",4553999.388,656614.757,175,1,21/04/2017,dissesto manto stradale,caduta pedone,110,720011146,VIA DE ROSSI,656614.757,4553999.388
+"{""type"":""Point"",""coordinates"":[659314.706,4552435.372]}",4552435.372,659314.706,177,1,13/03/2017,dissesto marciapiede,caduta pedone,,700021101,VIA DEI CADUTI PARTIGIANI,659314.706,4552435.372
+"{""type"":""Point"",""coordinates"":[657341.889,4552083.654]}",4552083.654,657341.889,179,2,06/07/2017,altro - giostra,altro - danni fisici,,700022229,VIA DELLA COSTITUENTE,657341.889,4552083.654
+"{""type"":""Point"",""coordinates"":[645701.443,4556719.57]}",4556719.57,645701.443,181,5,14/07/2017,dissesto marciapiede,caduta pedone,54/A,700021722,VIA DELLA SALUTE,645701.443,4556719.57
+"{""type"":""Point"",""coordinates"":[657973.151,4551499.51]}",4551499.51,657973.151,183,2,04/09/2017,dissesto marciapiede,caduta pedone,,720010365,VIA DEMETRIO MARIN,657973.151,4551499.51
+"{""type"":""Point"",""coordinates"":[654241.521,4554676.014]}",4554676.014,654241.521,184,3,27/02/2017,dissesto marciapiede,caduta pedone,,720010196,VIA DI MARATONA,654241.521,4554676.014
+"{""type"":""Point"",""coordinates"":[657686.297,4553603.21]}",4553603.21,657686.297,185,1,28/01/2017,dissesto manto stradale,caduta pedone,34,720012060,VIA DIETA DI BARI,657686.297,4553603.21
+"{""type"":""Point"",""coordinates"":[656624.765,4553724.44]}",4553724.44,656624.765,186,1,24/03/2017,dissesto manto stradale,caduta pedone,,720011146,VIA DE ROSSI,656624.765,4553724.44
+"{""type"":""Point"",""coordinates"":[655505.178,4553781.63]}",4553781.63,655505.178,188,1,11/03/2017,dissesto manto stradale,caduta pedone,,720010528,VIA DOMENICO NICOLAI,655505.178,4553781.63
+"{""type"":""Point"",""coordinates"":[655505.178,4553781.63]}",4553781.63,655505.178,189,1,29/03/2017,dissesto marciapiede,caduta pedone,,720010528,VIA DOMENICO NICOLAI,655505.178,4553781.63
+"{""type"":""Point"",""coordinates"":[655505.178,4553781.63]}",4553781.63,655505.178,190,1,16/06/2017,altro - olio,caduta con ciclomotore,,720010528,VIA DOMENICO NICOLAI,655505.178,4553781.63
+"{""type"":""Point"",""coordinates"":[655505.178,4553781.63]}",4553781.63,655505.178,191,1,16/06/2017,altro - olio,caduta con ciclomotore,,720010528,VIA DOMENICO NICOLAI,655505.178,4553781.63
+"{""type"":""Point"",""coordinates"":[655505.178,4553781.63]}",4553781.63,655505.178,192,1,04/09/2017,dissesto manto stradale,caduta pedone,,720010528,VIA DOMENICO NICOLAI,655505.178,4553781.63
+"{""type"":""Point"",""coordinates"":[655505.178,4553781.63]}",4553781.63,655505.178,193,1,05/10/2017,ostacolo - oggetto su manto stradale,caduta pedone,,720010528,VIA DOMENICO NICOLAI,655505.178,4553781.63
+"{""type"":""Point"",""coordinates"":[656300.723,4553844.527]}",4553844.527,656300.723,194,1,29/03/2017,dissesto marciapiede,caduta pedone,166,720010528,VIA DOMENICO NICOLAI,656300.723,4553844.527
+"{""type"":""Point"",""coordinates"":[656640.012,4553877.073]}",4553877.073,656640.012,195,1,04/08/2017,dissesto manto stradale,caduta pedone,30,720010528,VIA DOMENICO NICOLAI,656640.012,4553877.073
+"{""type"":""Point"",""coordinates"":[657411.366,4552864.751]}",4552864.751,657411.366,197,2,01/02/2017,dissesto manto stradale,caduta pedone,,700022313,VIA EDMONDO DE AMICIS,657411.366,4552864.751
+"{""type"":""Point"",""coordinates"":[658367.469,4553635.651]}",4553635.651,658367.469,198,1,26/09/2017,dissesto marciapiede,caduta pedone,15,700022057,VIA EGNATIA,658367.469,4553635.651
+"{""type"":""Point"",""coordinates"":[657608.071,4553719.333]}",4553719.333,657608.071,200,1,19/10/2017,dissesto marciapiede,altro - danni fisici,34,700021137,VIA EMANUELE MOLA,657608.071,4553719.333
+"{""type"":""Point"",""coordinates"":[657245.328,4553028.405]}",4553028.405,657245.328,201,2,28/07/2017,dissesto marciapiede,caduta pedone,13,720010502,VIA ENRICO TOTI,657245.328,4553028.405
+"{""type"":""Point"",""coordinates"":[654998.841,4554559.153]}",4554559.153,654998.841,203,1,09/04/2017,dissesto marciapiede,caduta pedone,2,700022410,VIA EROI DI DOGALI,654998.841,4554559.153
+"{""type"":""Point"",""coordinates"":[655935.391,4553824.665]}",4553824.665,655935.391,204,1,02/04/2017,ostacolo - paletto in ferro,danni auto,,700021072,VIA ETTORE FIERAMOSCA,655935.391,4553824.665
+"{""type"":""Point"",""coordinates"":[655261.986,4545051.6]}",4545051.6,655261.986,207,1,25/03/2017,dissesto manto stradale,caduta pedone,,720011464,VIA FRANCESCO CRISPI,655261.986,4545051.6
+"{""type"":""Point"",""coordinates"":[655212.074,4553828.591]}",4553828.591,655212.074,208,1,20/01/2017,tombino,caduta pedone,,700021965,VIA FRANCESCO CRISPI,655212.074,4553828.591
+"{""type"":""Point"",""coordinates"":[655734.448,4554088.932]}",4554088.932,655734.448,209,2,05/07/2017,altro - sinistro RCA,altro - danni materiali,118/A,700021965,VIA FRANCESCO CRISPI,655734.448,4554088.932
+"{""type"":""Point"",""coordinates"":[655359.06,4553904.913]}",4553904.913,655359.06,210,1,07/04/2017,tombino,caduta pedone,181,700021965,VIA FRANCESCO CRISPI,655359.06,4553904.913
+"{""type"":""Point"",""coordinates"":[655481.28,4554029.015]}",4554029.015,655481.28,211,1,11/07/2017,dissesto marciapiede,caduta pedone,,700020983,VIA FRANCESCO NETTI,655481.28,4554029.015
+"{""type"":""Point"",""coordinates"":[655481.28,4554029.015]}",4554029.015,655481.28,212,1,01/08/2017,dissesto marciapiede,caduta pedone,,700020983,VIA FRANCESCO NETTI,655481.28,4554029.015
+"{""type"":""Point"",""coordinates"":[656950.063,4547151.25]}",4547151.25,656950.063,213,4,27/10/2017,dissesto marciapiede,caduta pedone,5,700022271,VIA FRANCESCO RUBINI,656950.063,4547151.25
+"{""type"":""Point"",""coordinates"":[655648.288,4554018.902]}",4554018.902,655648.288,214,1,27/05/2017,tombino,caduta pedone,7/A,700022474,VIA FRATELLI BANDIERA,655648.288,4554018.902
+"{""type"":""Point"",""coordinates"":[649222.639,4556528.92]}",4556528.92,649222.639,216,5,12/09/2017,altro - olio,caduta con motociclo,,720010259,VIALE GABRIELE D'ANNUNZIO,649222.639,4556528.92
+"{""type"":""Point"",""coordinates"":[649207.086,4556737.02]}",4556737.02,649207.086,217,5,16/03/2017,dissesto manto stradale,caduta pedone,17,720010259,VIALE GABRIELE D'ANNUNZIO,649207.086,4556737.02
+"{""type"":""Point"",""coordinates"":[656687.998,4553259.202]}",4553259.202,656687.998,218,2,05/10/2017,tombino,caduta pedone,31/D,700021391,VIA GAETANO DEVITOFRANCESCO,656687.998,4553259.202
+"{""type"":""Point"",""coordinates"":[650506.209,4554024.79]}",4554024.79,650506.209,219,3,16/01/2017,altro - urto accidentale,danni auto,,700021241,VIA GAETANO FIORE,650506.209,4554024.79
+"{""type"":""Point"",""coordinates"":[657931.333,4552280.13]}",4552280.13,657931.333,220,2,24/08/2017,dissesto marciapiede,caduta pedone,16/G,720010522,VIA GAETANO SALVEMINI,657931.333,4552280.13
+"{""type"":""Point"",""coordinates"":[655534.429,4553982.914]}",4553982.914,655534.429,223,1,27/04/2017,dissesto manto stradale,caduta pedone,,700021436,VIA GENERALE DE BERNARDIS,655534.429,4553982.914
+"{""type"":""Point"",""coordinates"":[655534.429,4553982.914]}",4553982.914,655534.429,224,1,14/06/2017,dissesto manto stradale,caduta pedone,,700021436,VIA GENERALE DE BERNARDIS,655534.429,4553982.914
+"{""type"":""Point"",""coordinates"":[663810.586,4550888.88]}",4550888.88,663810.586,226,1,02/06/2017,cane randagio,caduta pedone,,720012151,VIA GIOVANNI GENTILE,663810.586,4550888.88
+"{""type"":""Point"",""coordinates"":[660617.967,4552570.91]}",4552570.91,660617.967,227,1,04/07/2017,tombino,altro - danni fisici,52,720012151,VIA GIOVANNI GENTILE,660617.967,4552570.91
+"{""type"":""Point"",""coordinates"":[654600.58,4555761.996]}",4555761.996,654600.58,228,5,12/08/2017,altro - palo,danni auto,16,700021841,VIA GUGLIELMO MARCONI,654600.58,4555761.996
+"{""type"":""Point"",""coordinates"":[658465.848,4553672.619]}",4553672.619,658465.848,229,1,19/04/2017,tombino,caduta pedone,,700021085,VIA GIACOMO MATTEOTTI,658465.848,4553672.619
+"{""type"":""Point"",""coordinates"":[658417.561,4553592.7]}",4553592.7,658417.561,230,1,03/07/2017,altro - caduta palo,altro - danni materiali,24,700021085,VIA GIACOMO MATTEOTTI,658417.561,4553592.7
+"{""type"":""Point"",""coordinates"":[646754.719,4558358.968]}",4558358.968,646754.719,231,5,16/03/2017,dissesto manto stradale,caduta pedone,,700021155,VIA GIANNONE DE MAIORIBUS,646754.719,4558358.968
+"{""type"":""Point"",""coordinates"":[656169.941,4553546.494]}",4553546.494,656169.941,232,1,15/02/2017,dissesto manto stradale,caduta pedone,,700021102,VIA GIOVAN BATTISTA TREVISANI,656169.941,4553546.494
+"{""type"":""Point"",""coordinates"":[656142.858,4553851.574]}",4553851.574,656142.858,233,1,06/03/2017,dissesto marciapiede,caduta pedone,247,700021102,VIA GIOVAN BATTISTA TREVISANI,656142.858,4553851.574
+"{""type"":""Point"",""coordinates"":[656097.062,4554369.805]}",4554369.805,656097.062,234,1,25/03/2017,dissesto marciapiede,caduta pedone,83,700021102,VIA GIOVAN BATTISTA TREVISANI,656097.062,4554369.805
+"{""type"":""Point"",""coordinates"":[656127.502,4554149.912]}",4554149.912,656127.502,235,1,28/08/2017,dissesto marciapiede,caduta pedone,100,700021102,VIA GIOVAN BATTISTA TREVISANI,656127.502,4554149.912
+"{""type"":""Point"",""coordinates"":[656163.141,4553764.434]}",4553764.434,656163.141,236,1,27/06/2017,dissesto manto stradale,caduta pedone,204,700021102,VIA GIOVAN BATTISTA TREVISANI,656163.141,4553764.434
+"{""type"":""Point"",""coordinates"":[659921.761,4548499.4]}",4548499.4,659921.761,237,2,27/02/2017,dissesto manto stradale,danni auto,,720010299,VIA GIOVANNI AMENDOLA,659921.761,4548499.4
+"{""type"":""Point"",""coordinates"":[657788.777,4553302.957]}",4553302.957,657788.777,238,2,27/01/2017,dissesto manto stradale,danni auto,100,720010299,VIA GIOVANNI AMENDOLA,657788.777,4553302.957
+"{""type"":""Point"",""coordinates"":[658334.088,4552533.38]}",4552533.38,658334.088,239,2,27/02/2017,tombino,danni auto,138,720010299,VIA GIOVANNI AMENDOLA,658334.088,4552533.38
+"{""type"":""Point"",""coordinates"":[657874.531,4553185.785]}",4553185.785,657874.531,240,2,04/07/2017,dissesto marciapiede,caduta pedone,106/U,720010299,VIA GIOVANNI AMENDOLA,657874.531,4553185.785
+"{""type"":""Point"",""coordinates"":[657706.875,4553423.63]}",4553423.63,657706.875,241,2,15/04/2017,dissesto marciapiede,danni auto,17,720010299,VIA GIOVANNI AMENDOLA,657706.875,4553423.63
+"{""type"":""Point"",""coordinates"":[651323.799,4554594.22]}",4554594.22,651323.799,242,3,01/10/2017,dissesto manto stradale,caduta con motociclo,,720011253,VIA GIOVANNI CANDURA,651323.799,4554594.22
+"{""type"":""Point"",""coordinates"":[651323.799,4554594.22]}",4554594.22,651323.799,243,3,01/10/2017,dissesto manto stradale,caduta con motociclo,,720011253,VIA GIOVANNI CANDURA,651323.799,4554594.22
+"{""type"":""Point"",""coordinates"":[656642.316,4548978.187]}",4548978.187,656642.316,245,2,13/06/2017,dissesto marciapiede,caduta pedone,,720011904,VIA GIULIO PETRONI,656642.316,4548978.187
+"{""type"":""Point"",""coordinates"":[656883.79,4552951.568]}",4552951.568,656883.79,246,2,19/01/2017,dissesto manto stradale,caduta pedone,104/H,720011904,VIA GIULIO PETRONI,656883.79,4552951.568
+"{""type"":""Point"",""coordinates"":[656873.924,4552857.248]}",4552857.248,656873.924,247,2,03/08/2017,dissesto manto stradale,caduta pedone,16,720011904,VIA GIULIO PETRONI,656873.924,4552857.248
+"{""type"":""Point"",""coordinates"":[656827.059,4552526.533]}",4552526.533,656827.059,248,2,10/05/2017,dissesto marciapiede,caduta pedone,66/B1,720011904,VIA GIULIO PETRONI,656827.059,4552526.533
+"{""type"":""Point"",""coordinates"":[656815.978,4552495.482]}",4552495.482,656815.978,249,2,16/06/2017,dissesto marciapiede,caduta pedone,67,720011904,VIA GIULIO PETRONI,656815.978,4552495.482
+"{""type"":""Point"",""coordinates"":[656819.057,4552406.304]}",4552406.304,656819.057,250,2,02/09/2017,dissesto manto stradale,caduta pedone,71,720011904,VIA GIULIO PETRONI,656819.057,4552406.304
+"{""type"":""Point"",""coordinates"":[657376.033,4553968.178]}",4553968.178,657376.033,251,1,10/05/2017,altro - lavori,caduta con motociclo,56,700022293,VIA GIUSEPPE BOZZI,657376.033,4553968.178
+"{""type"":""Point"",""coordinates"":[656229.725,4553309.29]}",4553309.29,656229.725,252,1,21/03/2017,altro - olio,caduta con ciclomotore,,720012064,VIA GIUSEPPE CAPRUZZI,656229.725,4553309.29
+"{""type"":""Point"",""coordinates"":[656229.725,4553309.29]}",4553309.29,656229.725,253,2,03/01/2017,tombino,caduta pedone,,720012064,VIA GIUSEPPE CAPRUZZI,656229.725,4553309.29
+"{""type"":""Point"",""coordinates"":[656229.725,4553309.29]}",4553309.29,656229.725,254,2,11/03/2017,dissesto marciapiede,caduta pedone,,720012064,VIA GIUSEPPE CAPRUZZI,656229.725,4553309.29
+"{""type"":""Point"",""coordinates"":[656229.725,4553309.29]}",4553309.29,656229.725,255,2,12/04/2017,dissesto marciapiede,caduta pedone,,720012064,VIA GIUSEPPE CAPRUZZI,656229.725,4553309.29
+"{""type"":""Point"",""coordinates"":[656229.725,4553309.29]}",4553309.29,656229.725,256,1,02/04/2017,altro - dissesto gradini,caduta pedone,,720012064,VIA GIUSEPPE CAPRUZZI,656229.725,4553309.29
+"{""type"":""Point"",""coordinates"":[656229.725,4553309.29]}",4553309.29,656229.725,257,2,20/09/2017,dissesto manto stradale,caduta pedone,,720012064,VIA GIUSEPPE CAPRUZZI,656229.725,4553309.29
+"{""type"":""Point"",""coordinates"":[656229.725,4553309.29]}",4553309.29,656229.725,258,1,15/09/2017,altro - dissesto gradini,caduta pedone,,720012064,VIA GIUSEPPE CAPRUZZI,656229.725,4553309.29
+"{""type"":""Point"",""coordinates"":[657644.396,4553513.133]}",4553513.133,657644.396,259,2,03/05/2017,dissesto marciapiede,caduta pedone,14/A,720012064,VIA GIUSEPPE CAPRUZZI,657644.396,4553513.133
+"{""type"":""Point"",""coordinates"":[657273.832,4553454.054]}",4553454.054,657273.832,260,2,15/05/2017,dissesto marciapiede,caduta pedone,90,720012064,VIA GIUSEPPE CAPRUZZI,657273.832,4553454.054
+"{""type"":""Point"",""coordinates"":[657503.541,4553521.879]}",4553521.879,657503.541,261,1,22/04/2017,tombino,caduta pedone,15,720012064,VIA GIUSEPPE CAPRUZZI,657503.541,4553521.879
+"{""type"":""Point"",""coordinates"":[656858.641,4551734.28]}",4551734.28,656858.641,265,2,21/02/2017,dissesto marciapiede,caduta pedone,,700022702,VIA GIUSEPPE DEL DRAGO,656858.641,4551734.28
+"{""type"":""Point"",""coordinates"":[657700.233,4551892.937]}",4551892.937,657700.233,267,2,22/01/2017,dissesto marciapiede,caduta pedone,,700021331,VIA GIUSEPPE PAVONCELLI,657700.233,4551892.937
+"{""type"":""Point"",""coordinates"":[657196.544,4553346.93]}",4553346.93,657196.544,268,2,14/06/2017,dissesto manto stradale,danni auto,,700021757,VIA GIUSEPPE PISANELLI,657196.544,4553346.93
+"{""type"":""Point"",""coordinates"":[655330.157,4551285.93]}",4551285.93,655330.157,269,2,26/01/2017,dissesto manto stradale,danni auto,,720010142,VIALE GIUSEPPE TATARELLA,655330.157,4551285.93
+"{""type"":""Point"",""coordinates"":[657428.707,4548563.76]}",4548563.76,657428.707,271,3,12/08/2017,dissesto manto stradale,caduta pedone,42,700021056,VIA GIUSEPPE VERDI,657428.707,4548563.76
+"{""type"":""Point"",""coordinates"":[658218.715,4553724.193]}",4553724.193,658218.715,272,1,06/10/2017,altro - caduta palo,danni auto,,700022739,VIA GORIZIA,658218.715,4553724.193
+"{""type"":""Point"",""coordinates"":[659396.38,4551982.54]}",4551982.54,659396.38,274,1,07/02/2017,dissesto manto stradale,caduta pedone,23,700021834,VIA GUGLIELMO APPULO,659396.38,4551982.54
+"{""type"":""Point"",""coordinates"":[657711.277,4553499.32]}",4553499.32,657711.277,275,2,13/01/2017,dissesto marciapiede,danni auto,,720010622,VIA GUGLIELMO OBERDAN,657711.277,4553499.32
+"{""type"":""Point"",""coordinates"":[656734.54,4548501.58]}",4548501.58,656734.54,276,1,14/01/2017,altro - spartitraffico,danni auto,,700022072,VIA GUGLIELMO OBERDAN,656734.54,4548501.58
+"{""type"":""Point"",""coordinates"":[657213.448,4552717.95]}",4552717.95,657213.448,277,2,31/05/2017,dissesto marciapiede,caduta pedone,8,700021262,VIA GUIDO DE RUGGIERO,657213.448,4552717.95
+"{""type"":""Point"",""coordinates"":[657058.652,4552591.812]}",4552591.812,657058.652,278,2,26/02/2017,dissesto manto stradale,danni auto,44,720010234,VIA ISONZO,657058.652,4552591.812
+"{""type"":""Point"",""coordinates"":[656887.64,4552909.291]}",4552909.291,656887.64,280,2,11/02/2017,dissesto marciapiede,caduta pedone,,700021081,VIA GIOVANNI LATERZA,656887.64,4552909.291
+"{""type"":""Point"",""coordinates"":[650717.441,4553443.7]}",4553443.7,650717.441,281,3,20/02/2017,dissesto marciapiede,caduta pedone,,700022380,VIA LATINA,650717.441,4553443.7
+"{""type"":""Point"",""coordinates"":[647387.385,4557096.764]}",4557096.764,647387.385,282,5,06/11/2017,tombino,danni auto,1/F,720011354,VIA LEONARDO DEL TURCO,647387.385,4557096.764
+"{""type"":""Point"",""coordinates"":[647365.88,4557074.692]}",4557074.692,647365.88,283,5,24/10/2017,ostacolo - transenna,danni auto,2,720011354,VIA LEONARDO DEL TURCO,647365.88,4557074.692
+"{""type"":""Point"",""coordinates"":[656380.322,4549770.37]}",4549770.37,656380.322,284,4,17/05/2017,altro - detriti,danni auto,2,700021532,VIA LUIGI RANIERI,656380.322,4549770.37
+"{""type"":""Point"",""coordinates"":[658763.631,4553025.73]}",4553025.73,658763.631,285,1,25/06/2017,dissesto marciapiede,caduta pedone,8,700022721,VIA MADRE CLELIA MERLONI,658763.631,4553025.73
+"{""type"":""Point"",""coordinates"":[651131.609,4553164.29]}",4553164.29,651131.609,286,3,16/08/2017,altro - brecciolina,caduta con motociclo,,720012040,VIALE MAESTRI DEL LAVORO,651131.609,4553164.29
+"{""type"":""Point"",""coordinates"":[651131.609,4553164.29]}",4553164.29,651131.609,287,3,16/08/2017,altro - brecciolina,caduta con motociclo,,720012040,VIALE MAESTRI DEL LAVORO,651131.609,4553164.29
+"{""type"":""Point"",""coordinates"":[651131.609,4553164.29]}",4553164.29,651131.609,288,3,16/08/2017,altro - brecciolina,caduta con motociclo,,720012040,VIALE MAESTRI DEL LAVORO,651131.609,4553164.29
+"{""type"":""Point"",""coordinates"":[655883.567,4554244.479]}",4554244.479,655883.567,289,1,07/09/2017,dissesto marciapiede,caduta pedone,1,700022700,VIA MAGGIORE DOMENICO TURITTO,655883.567,4554244.479
+"{""type"":""Point"",""coordinates"":[655883.567,4554244.479]}",4554244.479,655883.567,290,1,16/05/2017,dissesto marciapiede,caduta pedone,19,700022700,VIA MAGGIORE DOMENICO TURITTO,655883.567,4554244.479
+"{""type"":""Point"",""coordinates"":[658939.004,4553152.02]}",4553152.02,658939.004,291,1,21/03/2017,dissesto manto stradale,caduta pedone,31,720011869,VIA MAGNA GRECIA,658939.004,4553152.02
+"{""type"":""Point"",""coordinates"":[656667.66,4554287.249]}",4554287.249,656667.66,292,1,30/09/2017,dissesto manto stradale,caduta pedone,33,700021602,VIA MARCHESE DI MONTRONE,656667.66,4554287.249
+"{""type"":""Point"",""coordinates"":[658748.154,4553313.64]}",4553313.64,658748.154,294,1,04/05/2017,dissesto manto stradale,caduta pedone,26,700021551,VIA MARIO E SEVERINA DE LILLA,658748.154,4553313.64
+"{""type"":""Point"",""coordinates"":[655317.328,4553832.821]}",4553832.821,655317.328,295,1,02/07/2017,dissesto manto stradale,caduta pedone,,700022636,VIA MARIO PAGANO,655317.328,4553832.821
+"{""type"":""Point"",""coordinates"":[656292.603,4551575.8]}",4551575.8,656292.603,296,2,03/03/2017,dissesto manto stradale,caduta pedone,41,720011864,VIA MARTIN LUTHER KING,656292.603,4551575.8
+"{""type"":""Point"",""coordinates"":[657133.224,4553816.781]}",4553816.781,657133.224,297,1,01/02/2017,dissesto marciapiede,caduta pedone,186,700021231,VIA MELO DA BARI,657133.224,4553816.781
+"{""type"":""Point"",""coordinates"":[657096.139,4554177.286]}",4554177.286,657096.139,298,1,03/03/2017,dissesto marciapiede,caduta pedone,78,700021231,VIA MELO DA BARI,657096.139,4554177.286
+"{""type"":""Point"",""coordinates"":[657131.188,4553683.426]}",4553683.426,657131.188,299,1,16/02/2017,altro - lavori,caduta pedone,229,700021231,VIA MELO DA BARI,657131.188,4553683.426
+"{""type"":""Point"",""coordinates"":[657623.301,4553376.069]}",4553376.069,657623.301,300,2,26/04/2017,dissesto marciapiede,caduta pedone,,700021374,VIA MICHELE DE NAPOLI,657623.301,4553376.069
+"{""type"":""Point"",""coordinates"":[656733.948,4553817.303]}",4553817.303,656733.948,301,1,21/04/2017,dissesto marciapiede,caduta pedone,1/A,720010629,VIA MICHELE GARRUBA,656733.948,4553817.303
+"{""type"":""Point"",""coordinates"":[656197.879,4553762.882]}",4553762.882,656197.879,302,1,31/08/2017,dissesto marciapiede,caduta pedone,191,720010629,VIA MICHELE GARRUBA,656197.879,4553762.882
+"{""type"":""Point"",""coordinates"":[657199.819,4548273.415]}",4548273.415,657199.819,303,1,06/06/2017,tombino,caduta pedone,219/A,700022321,VIA MICHELE GARRUBA,657199.819,4548273.415
+"{""type"":""Point"",""coordinates"":[655547.892,4554275.518]}",4554275.518,655547.892,304,1,15/05/2017,dissesto manto stradale,caduta con velocipede,,700022254,VIA MICHELE MIRENGHI,655547.892,4554275.518
+"{""type"":""Point"",""coordinates"":[655573.505,4554179.567]}",4554179.567,655573.505,305,1,25/03/2017,dissesto manto stradale,caduta pedone,37,700022254,VIA MICHELE MIRENGHI,655573.505,4554179.567
+"{""type"":""Point"",""coordinates"":[656183.271,4550594.25]}",4550594.25,656183.271,307,2,22/02/2017,dissesto manto stradale,danni auto,,700021990,VIA MICHELE MITOLO,656183.271,4550594.25
+"{""type"":""Point"",""coordinates"":[656740.373,4551401.71]}",4551401.71,656740.373,308,2,27/06/2017,altro - giostra,altro - danni fisici,,700022092,VIALE MOHANDAS GANDHI,656740.373,4551401.71
+"{""type"":""Point"",""coordinates"":[657218.561,4548869.515]}",4548869.515,657218.561,309,4,18/03/2017,tombino,caduta pedone,48,700021409,VIA MONCALIERI,657218.561,4548869.515
+"{""type"":""Point"",""coordinates"":[655631.285,4553915.515]}",4553915.515,655631.285,310,1,00/00/0000,altro - infiltrazioni acqua,danni immobiliari,43/A,700022014,VIA MONSIGNOR FRANCESCO NITTI,655631.285,4553915.515
+"{""type"":""Point"",""coordinates"":[656676.861,4547493.535]}",4547493.535,656676.861,311,2,05/06/2017,altro - albero,danni auto,,700021622,VIA MONTE S. MICHELE,656676.861,4547493.535
+"{""type"":""Point"",""coordinates"":[656687.417,4547440.781]}",4547440.781,656687.417,312,1,04/03/2017,dissesto manto stradale,caduta pedone,,700021666,VIA MONTE GRAPPA,656687.417,4547440.781
+"{""type"":""Point"",""coordinates"":[670688.703,4549706.355]}",4549706.355,670688.703,314,1,01/07/2017,dissesto marciapiede,caduta pedone,,720010668,VIA MORELLI E SILVATI,670688.703,4549706.355
+"{""type"":""Point"",""coordinates"":[668542.309,4550133.51]}",4550133.51,668542.309,315,1,30/09/2017,ostacolo - cordolo,danni auto,18,720010668,VIA MORELLI E SILVATI,668542.309,4550133.51
+"{""type"":""Point"",""coordinates"":[657385.064,4548448.661]}",4548448.661,657385.064,316,3,18/01/2017,dissesto manto stradale,danni auto,,700021784,VIA NAPOLI,657385.064,4548448.661
+"{""type"":""Point"",""coordinates"":[657385.064,4548448.661]}",4548448.661,657385.064,317,5,08/06/2017,dissesto manto stradale,danni auto,,700021784,VIA NAPOLI,657385.064,4548448.661
+"{""type"":""Point"",""coordinates"":[655588.199,4554517.415]}",4554517.415,655588.199,318,1,15/02/2017,tombino,caduta pedone,252,720010385,VIA NAPOLI,655588.199,4554517.415
+"{""type"":""Point"",""coordinates"":[654936.432,4554526.23]}",4554526.23,654936.432,319,1,02/03/2017,altro - lavori,caduta con ciclomotore,316,720010385,VIA NAPOLI,654936.432,4554526.23
+"{""type"":""Point"",""coordinates"":[651224.533,4555956.43]}",4555956.43,651224.533,320,5,26/03/2017,dissesto manto stradale,danni auto,378/E,720010385,VIA NAPOLI,651224.533,4555956.43
+"{""type"":""Point"",""coordinates"":[656125.004,4554497.498]}",4554497.498,656125.004,321,5,21/07/2017,dissesto marciapiede,caduta pedone,114,720010385,VIA NAPOLI,656125.004,4554497.498
+"{""type"":""Point"",""coordinates"":[656019.607,4554501.998]}",4554501.998,656019.607,322,5,17/06/2017,dissesto marciapiede,caduta pedone,152,720010385,VIA NAPOLI,656019.607,4554501.998
+"{""type"":""Point"",""coordinates"":[656431.902,4554499.278]}",4554499.278,656431.902,323,1,20/09/2017,dissesto manto stradale,caduta pedone,157/D,720010385,VIA NAPOLI,656431.902,4554499.278
+"{""type"":""Point"",""coordinates"":[656284.951,4554491.792]}",4554491.792,656284.951,324,5,06/07/2017,altro - palo,caduta pedone,52,720010385,VIA NAPOLI,656284.951,4554491.792
+"{""type"":""Point"",""coordinates"":[656198.583,4554451.952]}",4554451.952,656198.583,325,1,05/06/2017,dissesto manto stradale,caduta pedone,7/A,700021610,VIA NICCOLO' PIZZOLI,656198.583,4554451.952
+"{""type"":""Point"",""coordinates"":[656196.026,4554477.822]}",4554477.822,656196.026,326,1,21/09/2017,dissesto marciapiede,caduta pedone,19,700021610,VIA NICCOLO' PIZZOLI,656196.026,4554477.822
+"{""type"":""Point"",""coordinates"":[655610.807,4551148.428]}",4551148.428,655610.807,327,2,12/05/2017,tombino,caduta pedone,,700022834,VIA NICOLA ANGELINI,655610.807,4551148.428
+"{""type"":""Point"",""coordinates"":[656117.233,4553592.15]}",4553592.15,656117.233,328,1,08/07/2017,dissesto manto stradale,caduta pedone,30,700022246,VIA NICOLA BAVARO,656117.233,4553592.15
+"{""type"":""Point"",""coordinates"":[657224.138,4549071.32]}",4549071.32,657224.138,329,4,21/06/2017,dissesto marciapiede,caduta pedone,8,700022165,VIA NICOLA COLONNA,657224.138,4549071.32
+"{""type"":""Point"",""coordinates"":[657316.473,4553854.63]}",4553854.63,657316.473,330,1,27/01/2017,dissesto manto stradale,caduta pedone,70,700022339,VIA NICOLA DE GIOSA,657316.473,4553854.63
+"{""type"":""Point"",""coordinates"":[657315.757,4553861.559]}",4553861.559,657315.757,331,1,18/02/2017,dissesto manto stradale,caduta pedone,66,700022339,VIA NICOLA DE GIOSA,657315.757,4553861.559
+"{""type"":""Point"",""coordinates"":[657254.874,4552785.262]}",4552785.262,657254.874,332,2,07/03/2017,dissesto manto stradale,caduta pedone,5,700022724,VIA NICOLA FORNELLI,657254.874,4552785.262
+"{""type"":""Point"",""coordinates"":[657055.21,4553684.289]}",4553684.289,657055.21,333,1,23/01/2017,dissesto manto stradale,caduta con velocipide,,700021759,VIA NICCOLO' DALL'ARCA,657055.21,4553684.289
+"{""type"":""Point"",""coordinates"":[657055.21,4553684.289]}",4553684.289,657055.21,334,1,07/10/2017,dissesto manto stradale,caduta pedone,,700021759,VIA NICCOLO' DALL'ARCA,657055.21,4553684.289
+"{""type"":""Point"",""coordinates"":[657055.21,4553684.289]}",4553684.289,657055.21,335,1,25/08/2017,dissesto marciapiede,caduta pedone,25,700021759,VIA NICCOLO' DALL'ARCA,657055.21,4553684.289
+"{""type"":""Point"",""coordinates"":[653303.446,4555564.039]}",4555564.039,653303.446,337,3,15/07/2017,altro - olio,caduta con ciclomotore,,700021608,VIA NICOLO' VAN WESTERHOUT,653303.446,4555564.039
+"{""type"":""Point"",""coordinates"":[657486.278,4553213.109]}",4553213.109,657486.278,338,2,05/02/2017,dissesto manto stradale,caduta pedone,26,700022078,VIA NIZZA,657486.278,4553213.109
+"{""type"":""Point"",""coordinates"":[662922.313,4551735.804]}",4551735.804,662922.313,339,1,04/07/2017,dissesto manto stradale,danni auto,,722052676,VIA OLANDA,662922.313,4551735.804
+"{""type"":""Point"",""coordinates"":[656372.096,4552451.18]}",4552451.18,656372.096,340,2,21/03/2017,dissesto manto stradale,caduta pedone,2,700021513,VIA ORAZIO COMES,656372.096,4552451.18
+"{""type"":""Point"",""coordinates"":[656274.743,4549054.26]}",4549054.26,656274.743,341,4,05/06/2017,dissesto manto stradale,caduta pedone,,720012091,VIA OSPEDALE DI VENERE,656274.743,4549054.26
+"{""type"":""Point"",""coordinates"":[657076.704,4548739.226]}",4548739.226,657076.704,342,4,05/05/2017,dissesto marciapiede,caduta pedone,105,720012091,VIA OSPEDALE DI VENERE,657076.704,4548739.226
+"{""type"":""Point"",""coordinates"":[657076.704,4548739.226]}",4548739.226,657076.704,343,4,03/02/2017,dissesto marciapiede,caduta pedone,81/D,720012091,VIA OSPEDALE DI VENERE,657076.704,4548739.226
+"{""type"":""Point"",""coordinates"":[653086.372,4555307.96]}",4555307.96,653086.372,344,3,31/03/2017,dissesto manto stradale,danni auto,,720010466,VIALE OTTORINO RESPIGHI,653086.372,4555307.96
+"{""type"":""Point"",""coordinates"":[653086.372,4555307.96]}",4555307.96,653086.372,345,3,31/08/2017,tombino,caduta pedone,,720010466,VIALE OTTORINO RESPIGHI,653086.372,4555307.96
+"{""type"":""Point"",""coordinates"":[653583.874,4555112.805]}",4555112.805,653583.874,346,0,01/04/2017,dissesto manto stradale,danni auto,8,720010466,VIALE OTTORINO RESPIGHI,653583.874,4555112.805
+"{""type"":""Point"",""coordinates"":[650980.931,4554283.64]}",4554283.64,650980.931,347,3,14/06/2017,dissesto marciapiede,caduta pedone,,700021306,VIA PACIFICO MAZZONI,650980.931,4554283.64
+"{""type"":""Point"",""coordinates"":[650980.931,4554283.64]}",4554283.64,650980.931,348,3,09/06/2017,dissesto marciapiede,caduta pedone,13/A,700021306,VIA PACIFICO MAZZONI,650980.931,4554283.64
+"{""type"":""Point"",""coordinates"":[660152.225,4552339.44]}",4552339.44,660152.225,349,1,14/03/2017,dissesto marciapiede,caduta pedone,26/A,700022279,VIA PANTALEO CARABELLESE,660152.225,4552339.44
+"{""type"":""Point"",""coordinates"":[656880.603,4553045.215]}",4553045.215,656880.603,350,2,17/07/2017,dissesto marciapiede,caduta pedone,,720012119,VIA PAOLO LEMBO,656880.603,4553045.215
+"{""type"":""Point"",""coordinates"":[654302.601,4555656.635]}",4555656.635,654302.601,351,3,18/08/2017,dissesto manto stradale,caduta pedone,,720012290,VIA PAOLO PINTO,654302.601,4555656.635
+"{""type"":""Point"",""coordinates"":[656215.953,4552346.41]}",4552346.41,656215.953,352,2,18/05/2017,dissesto marciapiede,caduta pedone,,700021191,VIALE PAPA GIOVANNI XXIII,656215.953,4552346.41
+"{""type"":""Point"",""coordinates"":[656215.953,4552346.41]}",4552346.41,656215.953,353,2,04/07/2017,dissesto marciapiede,caduta pedone,,700021191,VIALE PAPA GIOVANNI XXIII,656215.953,4552346.41
+"{""type"":""Point"",""coordinates"":[657151.728,4552346.889]}",4552346.889,657151.728,354,2,22/05/2017,dissesto manto stradale,caduta pedone,179,700021191,VIALE PAPA GIOVANNI XXIII,657151.728,4552346.889
+"{""type"":""Point"",""coordinates"":[656155.338,4551724.8]}",4551724.8,656155.338,355,2,10/04/2017,dissesto marciapiede,caduta pedone,,720011656,VIALE PAPA PIO XII,656155.338,4551724.8
+"{""type"":""Point"",""coordinates"":[656126.934,4551745.48]}",4551745.48,656126.934,356,2,19/05/2017,dissesto marciapiede,caduta pedone,59,720011656,VIALE PAPA PIO XII,656126.934,4551745.48
+"{""type"":""Point"",""coordinates"":[656155.338,4551724.8]}",4551724.8,656155.338,357,1,13/04/2017,dissesto marciapiede,caduta pedone,60,720011656,VIALE PAPA PIO XII,656155.338,4551724.8
+"{""type"":""Point"",""coordinates"":[656751.694,4551989.56]}",4551989.56,656751.694,358,2,10/04/2017,dissesto marciapiede,caduta pedone,6,700022134,VIA PAPA URBANO VI,656751.694,4551989.56
+"{""type"":""Point"",""coordinates"":[656619.574,4552717.42]}",4552717.42,656619.574,359,2,10/04/2017,dissesto marciapiede,caduta pedone,,700022389,VIA PASUBIO,656619.574,4552717.42
+"{""type"":""Point"",""coordinates"":[657044.531,4552654.126]}",4552654.126,657044.531,360,2,28/05/2017,dissesto marciapiede,caduta pedone,90,700022389,VIA PASUBIO,657044.531,4552654.126
+"{""type"":""Point"",""coordinates"":[658300.914,4553304.1]}",4553304.1,658300.914,361,1,16/07/2017,altro - albero,danni auto,,720012140,VIA PEUCETIA,658300.914,4553304.1
+"{""type"":""Point"",""coordinates"":[658300.914,4553304.1]}",4553304.1,658300.914,362,1,13/09/2017,dissesto marciapiede,caduta pedone,,720012140,VIA PEUCETIA,658300.914,4553304.1
+"{""type"":""Point"",""coordinates"":[658300.914,4553304.1]}",4553304.1,658300.914,363,1,05/09/2017,dissesto marciapiede,caduta pedone,,720012140,VIA PEUCETIA,658300.914,4553304.1
+"{""type"":""Point"",""coordinates"":[659277.665,4552766.144]}",4552766.144,659277.665,364,1,19/07/2017,dissesto marciapiede,caduta pedone,6/C,720012140,VIA PEUCETIA,659277.665,4552766.144
+"{""type"":""Point"",""coordinates"":[656869.235,4548745.855]}",4548745.855,656869.235,365,2,08/08/2017,dissesto manto stradale,caduta pedone,,700022526,VIA PIAVE,656869.235,4548745.855
+"{""type"":""Point"",""coordinates"":[655339.416,4544732.649]}",4544732.649,655339.416,366,4,03/04/2017,dissesto manto stradale,danni auto,31,700021180,VIA PIAVE,655339.416,4544732.649
+"{""type"":""Point"",""coordinates"":[650403.919,4553406.064]}",4553406.064,650403.919,367,3,03/03/2017,dissesto manto stradale,caduta pedone,60,700021387,VIA PIEMONTE,650403.919,4553406.064
+"{""type"":""Point"",""coordinates"":[655736.958,4553058.236]}",4553058.236,655736.958,368,2,24/04/2017,dissesto manto stradale,danni auto,24,700022447,VIA PIETRO COLLETTA,655736.958,4553058.236
+"{""type"":""Point"",""coordinates"":[658389.532,4552535.756]}",4552535.756,658389.532,369,5,07/06/2017,dissesto manto stradale,caduta pedone,10,700022903,VIA PIETRO GIANNONE,658389.532,4552535.756
+"{""type"":""Point"",""coordinates"":[656080.497,4553536.136]}",4553536.136,656080.497,370,1,02/03/2017,dissesto marciapiede,caduta pedone,,720010317,VIA PIETRO RAVANAS,656080.497,4553536.136
+"{""type"":""Point"",""coordinates"":[656008.16,4554221.109]}",4554221.109,656008.16,371,1,12/08/2017,tombino,caduta pedone,105,720010317,VIA PIETRO RAVANAS,656008.16,4554221.109
+"{""type"":""Point"",""coordinates"":[656008.853,4554212.915]}",4554212.915,656008.853,372,1,22/01/2017,dissesto marciapiede,caduta pedone,109,720010317,VIA PIETRO RAVANAS,656008.853,4554212.915
+"{""type"":""Point"",""coordinates"":[658532.412,4551671.55]}",4551671.55,658532.412,373,2,04/04/2017,dissesto manto stradale,caduta pedone,,700022019,VIA PIETRO SETTE,658532.412,4551671.55
+"{""type"":""Point"",""coordinates"":[657019.652,4548703.092]}",4548703.092,657019.652,374,3,22/03/2017,dissesto marciapiede,caduta pedone,,700022050,VIA POLA,657019.652,4548703.092
+"{""type"":""Point"",""coordinates"":[657019.652,4548703.092]}",4548703.092,657019.652,375,3,27/01/2017,dissesto marciapiede,caduta pedone,,700022050,VIA POLA,657019.652,4548703.092
+"{""type"":""Point"",""coordinates"":[657123.138,4548954.475]}",4548954.475,657123.138,376,4,18/01/2017,tombino,altro - danni immobiliari,1,700021329,VIA PONTE,657123.138,4548954.475
+"{""type"":""Point"",""coordinates"":[656877.518,4547486.541]}",4547486.541,656877.518,377,1,19/01/2017,dissesto manto stradale,caduta pedone,,720011672,VIA PRINCIPE AMEDEO,656877.518,4547486.541
+"{""type"":""Point"",""coordinates"":[656877.518,4547486.541]}",4547486.541,656877.518,378,1,24/03/2017,dissesto manto stradale,caduta pedone,,720011672,VIA PRINCIPE AMEDEO,656877.518,4547486.541
+"{""type"":""Point"",""coordinates"":[656877.518,4547486.541]}",4547486.541,656877.518,379,1,13/08/2017,dissesto manto stradale,caduta pedone,,720011672,VIA PRINCIPE AMEDEO,656877.518,4547486.541
+"{""type"":""Point"",""coordinates"":[656877.518,4547486.541]}",4547486.541,656877.518,380,1,14/03/2017,tombino,caduta pedone,,720011672,VIA PRINCIPE AMEDEO,656877.518,4547486.541
+"{""type"":""Point"",""coordinates"":[656877.518,4547486.541]}",4547486.541,656877.518,381,1,07/10/2017,dissesto manto stradale,caduta con velocipede,,720011672,VIA PRINCIPE AMEDEO,656877.518,4547486.541
+"{""type"":""Point"",""coordinates"":[656102.456,4553966.6]}",4553966.6,656102.456,382,1,01/07/2017,dissesto marciapiede,caduta pedone,356,700021131,VIA PRINCIPE AMEDEO,656102.456,4553966.6
+"{""type"":""Point"",""coordinates"":[655982.18,4553970.558]}",4553970.558,655982.18,383,1,29/09/2017,dissesto marciapiede,caduta pedone,393,700021131,VIA PRINCIPE AMEDEO,655982.18,4553970.558
+"{""type"":""Point"",""coordinates"":[648024.028,4556889.914]}",4556889.914,648024.028,384,4,07/01/2017,altro - ghiaccio,caduta pedone,6,700022270,VIA PRINCIPE UMBERTO,648024.028,4556889.914
+"{""type"":""Point"",""coordinates"":[657068.025,4553763.68]}",4553763.68,657068.025,385,1,06/03/2017,dissesto marciapiede,caduta pedone,,700021924,VIA PROSPERO PETRONI,657068.025,4553763.68
+"{""type"":""Point"",""coordinates"":[657661.805,4552870.985]}",4552870.985,657661.805,386,2,11/02/2017,dissesto marciapiede,caduta pedone,10,700021077,VIA QUARTO,657661.805,4552870.985
+"{""type"":""Point"",""coordinates"":[656556.994,4553587.942]}",4553587.942,656556.994,387,1,15/05/2017,dissesto manto stradale,caduta pedone,,700021027,VIA QUINTINO SELLA,656556.994,4553587.942
+"{""type"":""Point"",""coordinates"":[656556.994,4553587.942]}",4553587.942,656556.994,388,1,03/07/2017,dissesto marciapiede,caduta pedone,,700021027,VIA QUINTINO SELLA,656556.994,4553587.942
+"{""type"":""Point"",""coordinates"":[653327.226,4554510.115]}",4554510.115,653327.226,389,3,24/07/2017,tombino,caduta con motociclo,,722052483,VIA RENATO SCIONTI,653327.226,4554510.115
+"{""type"":""Point"",""coordinates"":[651243.626,4554549.15]}",4554549.15,651243.626,390,3,12/06/2017,ostacolo - cordolo,danni auto,16/B,720011244,VIA RICCARDO CIUSA,651243.626,4554549.15
+"{""type"":""Point"",""coordinates"":[651375.521,4554352.73]}",4554352.73,651375.521,391,3,24/01/2017,dissesto manto stradale,caduta pedone,20,720011244,VIA RICCARDO CIUSA,651375.521,4554352.73
+"{""type"":""Point"",""coordinates"":[655882.76,4548533.68]}",4548533.68,655882.76,392,4,24/04/2017,altro - giostra,altro - danni fisici,,720011163,VIA ROCCO DICILLO,655882.76,4548533.68
+"{""type"":""Point"",""coordinates"":[655882.76,4548533.68]}",4548533.68,655882.76,393,4,10/07/2017,dissesto manto stradale,caduta pedone,,720011163,VIA ROCCO DICILLO,655882.76,4548533.68
+"{""type"":""Point"",""coordinates"":[656783.31,4552091.63]}",4552091.63,656783.31,394,2,14/09/2017,dissesto manto stradale,caduta pedone,8,700022910,VIA ROSARIO BERARDI,656783.31,4552091.63
+"{""type"":""Point"",""coordinates"":[652438.999,4555688.628]}",4555688.628,652438.999,396,3,06/02/2017,dissesto marciapiede,caduta pedone,,720010463,VIA RUGGIERO LEONCAVALLO,652438.999,4555688.628
+"{""type"":""Point"",""coordinates"":[657116.03,4552383.491]}",4552383.491,657116.03,397,2,04/05/2017,dissesto marciapiede,caduta pedone,16,700021365,VIA SABOTINO,657116.03,4552383.491
+"{""type"":""Point"",""coordinates"":[659047.565,4552602.028]}",4552602.028,659047.565,398,1,15/02/2017,dissesto marciapiede,caduta pedone,,700021420,VIA SALAPIA,659047.565,4552602.028
+"{""type"":""Point"",""coordinates"":[659047.565,4552602.028]}",4552602.028,659047.565,399,1,15/03/2017,dissesto manto stradale,caduta pedone,,700021420,VIA SALAPIA,659047.565,4552602.028
+"{""type"":""Point"",""coordinates"":[657459.028,4554152.596]}",4554152.596,657459.028,400,1,11/04/2017,tombino,caduta pedone,,700021758,VIA SALVATORE COGNETTI,657459.028,4554152.596
+"{""type"":""Point"",""coordinates"":[661298.217,4552369.16]}",4552369.16,661298.217,401,1,09/02/2017,tombino,danni auto,,720012030,VIA SALVATORE QUASIMODO,661298.217,4552369.16
+"{""type"":""Point"",""coordinates"":[652561.986,4551155.72]}",4551155.72,652561.986,402,2,02/05/2017,dissesto manto stradale,danni auto,,720010763,STRADA SAN GIORGIO MARTIRE O SAN SERIO,652561.986,4551155.72
+"{""type"":""Point"",""coordinates"":[652561.986,4551155.72]}",4551155.72,652561.986,403,2,02/05/2017,dissesto manto stradale,lesioni personali,,720010763,STRADA SAN GIORGIO MARTIRE O SAN SERIO,652561.986,4551155.72
+"{""type"":""Point"",""coordinates"":[652561.986,4551155.72]}",4551155.72,652561.986,404,3,11/04/2017,dissesto manto stradale,danni auto,,720010763,STRADA SAN GIORGIO MARTIRE O SAN SERIO,652561.986,4551155.72
+"{""type"":""Point"",""coordinates"":[652561.986,4551155.72]}",4551155.72,652561.986,405,2,23/02/2017,tombino,caduta con motociclo,,720010763,STRADA SAN GIORGIO MARTIRE O SAN SERIO,652561.986,4551155.72
+"{""type"":""Point"",""coordinates"":[652561.986,4551155.72]}",4551155.72,652561.986,406,3,12/09/2017,dissesto manto stradale,danni auto,,720010763,STRADA SAN GIORGIO MARTIRE O SAN SERIO,652561.986,4551155.72
+"{""type"":""Point"",""coordinates"":[657089.899,4547929.85]}",4547929.85,657089.899,408,4,25/07/2017,dissesto manto stradale,caduta con motociclo,6,700022329,VIA SAN VITTORE,657089.899,4547929.85
+"{""type"":""Point"",""coordinates"":[646585.447,4558700.987]}",4558700.987,646585.447,409,5,29/06/2017,dissesto manto stradale,caduta pedone,97,700021285,VIA SAVONA,646585.447,4558700.987
+"{""type"":""Point"",""coordinates"":[655780.836,4553616.788]}",4553616.788,655780.836,411,1,16/02/2017,dissesto marciapiede,caduta pedone,,720010628,VIA SCIPIONE CRISANZIO,655780.836,4553616.788
+"{""type"":""Point"",""coordinates"":[656306.302,4553678.47]}",4553678.47,656306.302,412,1,21/07/2017,dissesto manto stradale,caduta pedone,134,720010628,VIA SCIPIONE CRISANZIO,656306.302,4553678.47
+"{""type"":""Point"",""coordinates"":[656593.471,4553705.994]}",4553705.994,656593.471,413,1,24/09/2017,dissesto marciapiede,caduta pedone,60,720010628,VIA SCIPIONE CRISANZIO,656593.471,4553705.994
+"{""type"":""Point"",""coordinates"":[651239.185,4553901.52]}",4553901.52,651239.185,414,3,05/04/2017,dissesto marciapiede,caduta pedone,,700022154,VIA SICILIA,651239.185,4553901.52
+"{""type"":""Point"",""coordinates"":[658996.324,4552902.57]}",4552902.57,658996.324,415,1,08/01/2017,dissesto manto stradale,caduta pedone,,700022394,VIA SIPONTO,658996.324,4552902.57
+"{""type"":""Point"",""coordinates"":[656992.472,4553677.601]}",4553677.601,656992.472,416,1,18/02/2017,altro - recinzione,altro - danno indumenti,,700021390,VIA SPARANO DA BARI,656992.472,4553677.601
+"{""type"":""Point"",""coordinates"":[656992.472,4553677.601]}",4553677.601,656992.472,417,1,27/03/2017,dissesto marciapiede,caduta pedone,,700021390,VIA SPARANO DA BARI,656992.472,4553677.601
+"{""type"":""Point"",""coordinates"":[656992.472,4553677.601]}",4553677.601,656992.472,418,0,14/03/2017,altro - lavori,altro,,700021390,VIA SPARANO DA BARI,656992.472,4553677.601
+"{""type"":""Point"",""coordinates"":[656992.472,4553677.601]}",4553677.601,656992.472,419,1,05/02/2017,dissesto manto stradale,caduta pedone,,700021390,VIA SPARANO DA BARI,656992.472,4553677.601
+"{""type"":""Point"",""coordinates"":[656992.472,4553677.601]}",4553677.601,656992.472,420,1,07/05/2017,dissesto manto stradale,caduta pedone,,700021390,VIA SPARANO DA BARI,656992.472,4553677.601
+"{""type"":""Point"",""coordinates"":[656992.472,4553677.601]}",4553677.601,656992.472,421,1,20/04/2017,dissesto manto stradale,caduta pedone,,700021390,VIA SPARANO DA BARI,656992.472,4553677.601
+"{""type"":""Point"",""coordinates"":[656992.472,4553677.601]}",4553677.601,656992.472,422,1,13/06/2017,dissesto manto stradale,caduta pedone,,700021390,VIA SPARANO DA BARI,656992.472,4553677.601
+"{""type"":""Point"",""coordinates"":[656992.472,4553677.601]}",4553677.601,656992.472,423,1,09/06/2017,dissesto marciapiede,caduta pedone,,700021390,VIA SPARANO DA BARI,656992.472,4553677.601
+"{""type"":""Point"",""coordinates"":[656992.472,4553677.601]}",4553677.601,656992.472,424,1,14/10/2017,dissesto marciapiede,caduta pedone,,700021390,VIA SPARANO DA BARI,656992.472,4553677.601
+"{""type"":""Point"",""coordinates"":[656980.047,4553673.634]}",4553673.634,656980.047,425,1,14/03/2017,altro - lavori,caduta pedone,159,700021390,VIA SPARANO DA BARI,656980.047,4553673.634
+"{""type"":""Point"",""coordinates"":[656946.102,4554030.276]}",4554030.276,656946.102,426,1,02/03/2017,dissesto marciapiede,caduta pedone,99,700021390,VIA SPARANO DA BARI,656946.102,4554030.276
+"{""type"":""Point"",""coordinates"":[656945.813,4554033.13]}",4554033.13,656945.813,427,1,31/08/2017,dissesto manto stradale,caduta pedone,97,700021390,VIA SPARANO DA BARI,656945.813,4554033.13
+"{""type"":""Point"",""coordinates"":[657585.575,4552018.702]}",4552018.702,657585.575,428,2,14/06/2017,dissesto marciapiede,caduta pedone,48,700021312,VIA STEFANO JACINI,657585.575,4552018.702
+"{""type"":""Point"",""coordinates"":[661036.351,4551902.59]}",4551902.59,661036.351,429,1,12/01/2017,dissesto manto stradale,caduta pedone,,700021219,VIA TEN. CESARE SUGLIA,661036.351,4551902.59
+"{""type"":""Point"",""coordinates"":[655489.332,4554100.27]}",4554100.27,655489.332,430,1,17/05/2017,tombino,caduta pedone,,700022190,VIA TEN. TOMMASO PORCELLI,655489.332,4554100.27
+"{""type"":""Point"",""coordinates"":[650000.857,4553651.43]}",4553651.43,650000.857,433,3,10/03/2017,dissesto manto stradale,danni auto,,700021217,VIA TRENTINO ALTO ADIGE,650000.857,4553651.43
+"{""type"":""Point"",""coordinates"":[657484.353,4553390.047]}",4553390.047,657484.353,434,2,24/02/2017,dissesto marciapiede,caduta pedone,36,700022311,VIA TRENTO,657484.353,4553390.047
+"{""type"":""Point"",""coordinates"":[656962.675,4547396.951]}",4547396.951,656962.675,435,4,30/04/2017,dissesto marciapiede,caduta pedone,35,700021223,VIA TRENTO,656962.675,4547396.951
+"{""type"":""Point"",""coordinates"":[656991.853,4547729.106]}",4547729.106,656991.853,436,4,14/04/2017,dissesto marciapiede,caduta pedone,1,700021283,VIA UMBERTO I,656991.853,4547729.106
+"{""type"":""Point"",""coordinates"":[657026.862,4547566.426]}",4547566.426,657026.862,437,4,22/05/2017,dissesto marciapiede,caduta pedone,92,700021283,VIA UMBERTO I,657026.862,4547566.426
+"{""type"":""Point"",""coordinates"":[655630.005,4545166.165]}",4545166.165,655630.005,438,4,11/08/2017,dissesto marciapiede,caduta pedone,31,700021201,VIA UMBERTO MINERVINI,655630.005,4545166.165
+"{""type"":""Point"",""coordinates"":[650579.385,4553792.97]}",4553792.97,650579.385,439,3,14/08/2017,dissesto manto stradale,caduta pedone,9,700022760,VIA UMBRIA,650579.385,4553792.97
+"{""type"":""Point"",""coordinates"":[648354.043,4556742.316]}",4556742.316,648354.043,440,5,01/07/2017,dissesto manto stradale,caduta pedone,,720012213,VIA VINCENZO MARTELLOTTA,648354.043,4556742.316
+"{""type"":""Point"",""coordinates"":[648866.738,4557530.396]}",4557530.396,648866.738,441,5,15/03/2017,tombino,danni auto,1/A,700021253,VIA VINCENZO RANIERI,648866.738,4557530.396
+"{""type"":""Point"",""coordinates"":[654116.384,4551628.406]}",4551628.406,654116.384,443,2,28/07/2017,dissesto manto stradale,danni auto,44,720012076,VIA VINCENZO SASSANELLI,654116.384,4551628.406
+"{""type"":""Point"",""coordinates"":[657075.359,4553405.016]}",4553405.016,657075.359,444,2,20/10/2017,dissesto marciapiede,caduta pedone,37,700021010,VIA VITANTONIO DE BELLIS,657075.359,4553405.016
+"{""type"":""Point"",""coordinates"":[656815.978,4547353.879]}",4547353.879,656815.978,445,4,31/03/2017,dissesto manto stradale,caduta pedone,55,700021182,VIA VITTORIO VENETO,656815.978,4547353.879
+"{""type"":""Point"",""coordinates"":[655231.2,4545004.689]}",4545004.689,655231.2,446,4,26/01/2017,dissesto marciapiede,caduta pedone,2,700022744,VIA VITTORIO VENETO,655231.2,4545004.689
+"{""type"":""Point"",""coordinates"":[657501.666,4552376.766]}",4552376.766,657501.666,447,2,09/05/2017,dissesto manto stradale,caduta con ciclomotore,,700021814,VIA GIUSEPPE ZANARDELLI,657501.666,4552376.766
+"{""type"":""Point"",""coordinates"":[645794.287,4557792.93]}",4557792.93,645794.287,448,5,28/07/2017,dissesto manto stradale,caduta pedone,10,720010255,VIALE CARAVELLA,645794.287,4557792.93
+"{""type"":""Point"",""coordinates"":[645782.147,4558048.02]}",4558048.02,645782.147,449,5,03/08/2017,dissesto manto stradale,caduta pedone,4,720010255,VIALE CARAVELLA,645782.147,4558048.02
+"{""type"":""Point"",""coordinates"":[655326.781,4554079.557]}",4554079.557,655326.781,450,2,31/05/2017,dissesto manto stradale,caduta pedone,,700021289,VIA REPUBBLICA NAPOLETANA,655326.781,4554079.557
+"{""type"":""Point"",""coordinates"":[655380.703,4554048.025]}",4554048.025,655380.703,451,2,29/07/2017,dissesto marciapiede,caduta pedone,110,700021289,VIA REPUBBLICA NAPOLETANA,655380.703,4554048.025
+"{""type"":""Point"",""coordinates"":[655380.703,4554048.025]}",4554048.025,655380.703,452,2,21/09/2017,dissesto marciapiede,caduta pedone,141,700021289,VIA REPUBBLICA NAPOLETANA,655380.703,4554048.025
+"{""type"":""Point"",""coordinates"":[650347.679,4553871.95]}",4553871.95,650347.679,454,3,26/01/2017,dissesto manto stradale,caduta pedone,,720011260,VIALE DELLE REGIONI,650347.679,4553871.95
+"{""type"":""Point"",""coordinates"":[650347.679,4553871.95]}",4553871.95,650347.679,455,3,21/01/2017,dissesto manto stradale,danni auto,,720011260,VIALE DELLE REGIONI,650347.679,4553871.95
+"{""type"":""Point"",""coordinates"":[650347.679,4553871.95]}",4553871.95,650347.679,456,3,03/05/2017,dissesto manto stradale,caduta pedone,,720011260,VIALE DELLE REGIONI,650347.679,4553871.95
+"{""type"":""Point"",""coordinates"":[650347.679,4553871.95]}",4553871.95,650347.679,457,3,24/04/2017,dissesto marciapiede,caduta pedone,,720011260,VIALE DELLE REGIONI,650347.679,4553871.95
+"{""type"":""Point"",""coordinates"":[650347.679,4553871.95]}",4553871.95,650347.679,458,3,02/06/2017,dissesto marciapiede,caduta pedone,,720011260,VIALE DELLE REGIONI,650347.679,4553871.95
+"{""type"":""Point"",""coordinates"":[656361.745,4552939.699]}",4552939.699,656361.745,459,2,06/07/2017,dissesto marciapiede,caduta pedone,,700021583,VIALE ENNIO QUINTO,656361.745,4552939.699
+"{""type"":""Point"",""coordinates"":[647971.853,4556981.557]}",4556981.557,647971.853,460,5,03/08/2017,altro - scivolo per disabili,caduta pedone,69,700021399,VIALE GINO PRIOLO,647971.853,4556981.557
+"{""type"":""Point"",""coordinates"":[666983.093,4550668.302]}",4550668.302,666983.093,461,1,19/01/2017,dissesto manto stradale,caduta pedone,,720011484,VIALE GROTTA DELLA REGINA,666983.093,4550668.302
+"{""type"":""Point"",""coordinates"":[659154.809,4553171.804]}",4553171.804,659154.809,462,1,23/02/2017,tombino,caduta pedone,142,720012241,VIALE JAPIGIA,659154.809,4553171.804
+"{""type"":""Point"",""coordinates"":[657135.884,4551621.108]}",4551621.108,657135.884,463,2,28/10/2017,dissesto marciapiede,caduta pedone,83A/1,700022152,VIALE JOHN FITZGERALD KENNEDY,657135.884,4551621.108
+"{""type"":""Point"",""coordinates"":[658432.327,4551940.96]}",4551940.96,658432.327,464,2,16/02/2017,dissesto manto stradale,caduta con motociclo,,700021175,VIALE LUIGI EINAUDI,658432.327,4551940.96
+"{""type"":""Point"",""coordinates"":[658432.327,4551940.96]}",4551940.96,658432.327,465,2,16/02/2017,dissesto manto stradale,caduta con motociclo,,700021175,VIALE LUIGI EINAUDI,658432.327,4551940.96
+"{""type"":""Point"",""coordinates"":[658432.327,4551940.96]}",4551940.96,658432.327,466,2,01/03/2017,dissesto marciapiede,caduta pedone,,700021175,VIALE LUIGI EINAUDI,658432.327,4551940.96
+"{""type"":""Point"",""coordinates"":[658432.327,4551940.96]}",4551940.96,658432.327,467,2,19/09/2017,dissesto marciapiede,caduta pedone,,700021175,VIALE LUIGI EINAUDI,658432.327,4551940.96
+"{""type"":""Point"",""coordinates"":[658312.467,4551861.895]}",4551861.895,658312.467,468,2,01/06/2017,dissesto manto stradale,caduta pedone,51,700021175,VIALE LUIGI EINAUDI,658312.467,4551861.895
+"{""type"":""Point"",""coordinates"":[656213.19,4552591.866]}",4552591.866,656213.19,469,2,21/02/2017,dissesto marciapiede,caduta pedone,11/C,720011663,VIALE ORAZIO FLACCO,656213.19,4552591.866
+"{""type"":""Point"",""coordinates"":[656097.199,4552156.29]}",4552156.29,656097.199,470,2,03/07/2017,dissesto marciapiede,caduta pedone,65,720011663,VIALE ORAZIO FLACCO,656097.199,4552156.29
+"{""type"":""Point"",""coordinates"":[656215.953,4552346.41]}",4552346.41,656215.953,471,2,22/04/2017,dissesto manto stradale,caduta pedone,,700021191,VIALE PAPA GIOVANNI XXIII,656215.953,4552346.41
+"{""type"":""Point"",""coordinates"":[653785.027,4555084.46]}",4555084.46,653785.027,472,3,16/06/2017,dissesto manto stradale,caduta pedone,,720010431,VIALE SAVERIO MERCADANTE,653785.027,4555084.46
+"{""type"":""Point"",""coordinates"":[657285.472,4553274.098]}",4553274.098,657285.472,473,2,16/02/2017,altro - lavori,caduta con motociclo,34,720010644,VIALE UNITA' D'ITALIA,657285.472,4553274.098
+"{""type"":""Point"",""coordinates"":[657285.472,4553274.098]}",4553274.098,657285.472,474,2,16/02/2017,altro - lavori,caduta con motociclo,34,720010644,VIALE UNITA' D'ITALIA,657285.472,4553274.098
+"{""type"":""Point"",""coordinates"":[657292.168,4553219.606]}",4553219.606,657292.168,475,2,26/02/2017,dissesto marciapiede,caduta pedone,38,720010644,VIALE UNITA' D'ITALIA,657292.168,4553219.606
