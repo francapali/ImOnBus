@@ -329,8 +329,8 @@ export const ChildView: React.FC = () => {
     <div className="min-h-screen bg-slate-100 pb-24 relative overflow-x-hidden">
       <header className="bg-indigo-900 text-white p-6 flex items-center justify-between">
         <div>
-          <h1 className="text-xl font-black uppercase tracking-widest">SafeStep</h1>
-          <p className="text-indigo-300 text-xs font-bold">MODALITÀ RAGAZZO</p>
+          <h1 className="text-xl font-black uppercase tracking-widest">I'm on Bus</h1>
+          <p className="text-indigo-300 text-xs font-bold">MODALITÀ BAMBINO</p>
         </div>
         {activeTrip && (
           <div className="flex items-center gap-2 bg-indigo-800 px-3 py-1 rounded-full">

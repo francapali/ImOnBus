@@ -17,7 +17,7 @@ export const AuthView: React.FC = () => {
         <div className="flex justify-center mb-4">
           <ShieldCheck className="w-16 h-16 text-emerald-600" />
         </div>
-        <h1 className="text-4xl font-bold text-slate-900 tracking-tight">SafeStep</h1>
+        <h1 className="text-4xl font-bold text-slate-900 tracking-tight">I'm On Bus</h1>
         <p className="text-slate-500 mt-2">Sicurezza intelligente per piccoli viaggiatori</p>
       </motion.div>
 
